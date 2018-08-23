@@ -1,8 +1,8 @@
 # Title
 
-Yield:  
-Time:   
+######  Yield:
+######  Time:
 
-    Ingredients
+##  Ingredients
 
-    Directions
+##  Directions
