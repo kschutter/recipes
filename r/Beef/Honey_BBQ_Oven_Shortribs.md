@@ -3,7 +3,7 @@
 ###### Yield:  4-6 servings
 ###### Time:   5 hrs 5 minutes
 
-##   *Ingredients*
+##   Ingredients
 - 1/4 cup sweet paprika
 - 1 tablespoon onion powder
 - Kosher salt and freshly ground black pepper
