@@ -3,6 +3,6 @@
 ######  Yield:
 ######  Time:
 
-##  Ingredients
+##  *Ingredients*
 
-##  Directions
+##  *Directions*

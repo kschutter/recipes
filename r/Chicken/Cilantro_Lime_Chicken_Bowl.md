@@ -1,24 +1,22 @@
-Cilantro Lime Chicken Bowl
+#   Cilantro Lime Chicken Bowl
 
-Yield:  Makes 2
-Time:   30 minutes
+######  Yield:  Makes 2
+######  Time:   30 minutes
 
-    Ingredients
-2 tbsp avocado or olive oil
-1 lime - the zest and juice
-2 tbsp fresh cilantro - chopped and more for garnish
-1/4 tsp each: salt and pepper
-2 lbs chicken breast
+##  *Ingredients*
+- 2 tbsp avocado or olive oil
+- 1 lime - the zest and juice
+- 2 tbsp fresh cilantro - chopped and more for garnish
+- 1/4 tsp each: salt and pepper
+- 2 lbs chicken breast
+- 1 avocado
+- 1 lime - just the juice
+- 2 tbsp avocado or olive oil
+- 1 tsp garlic powder
+- 1 handful fresh cilantro - chopped
 
-1 avocado
-1 lime - just the juice
-2 tbsp avocado or olive oil
-1 tsp garlic powder
-
-1 handful fresh cilantro - chopped
-
-    Directions
-1. First make the marinade for your chicken. In a large ziplock, combine your avocado or olive oil, 
+##  *Directions*
+1. First make the marinade for your chicken. In a large ziplock, combine your avocado or olive oil,
     lime zest and juice, chopped cilantro, salt, and pepper.
 2. Then, place your chicken breasts between two sheets of parchment paper or plastic wrap and use a 
     meat mallet or rolling pin to flatten your chicken so that the pieces are even in thickness. 
