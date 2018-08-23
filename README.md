@@ -1,7 +1,7 @@
 # kschutter Culinary Recipes
 
-- [Poultry](#Poultry)
-- [Beef](#Beef)
+- [Poultry](#poultry)
+- [Beef](#beef)
 
 ##  Poultry
 list item
