@@ -4,7 +4,7 @@
 ######  Time: 1 hour
 
 ##  *Ingredients*
-- 1 1.5 lb bag Baby Boomer Little Potatoes
+- 1 1/2 lbs ukon gold potatoes
 - 2 lbs boneless, skinless chicken breasts cut into 1-inch cubes
 salt & pepper to taste
 - 1/2 cup prepared ranch dressing divided use
