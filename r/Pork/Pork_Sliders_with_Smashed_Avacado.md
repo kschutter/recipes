@@ -1,4 +1,4 @@
-# Pork Sliders with Smashed Avacados
+# Pork Sliders with Smashed Avocados
 
 ######  Yield: 8 sliders
 ######  Time: 30 minutes
@@ -6,7 +6,7 @@
 ##  *Ingredients*
 - 8 slider buns
 - 12 ounces extra-lean ground pork
-- 1 1/2 tablespoons chopped
+- 1 1/2 tablespoons chopped parsley
 - 1/2 teaspoon garlic powder
 - 2 ounces shredded Monterey Jack cheese
 - 2 teaspoons fresh lemon juice
