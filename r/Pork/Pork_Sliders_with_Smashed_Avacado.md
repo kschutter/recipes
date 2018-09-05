@@ -5,12 +5,16 @@
 
 ##  *Ingredients*
 - 8 slider buns
+<!---->
 - 12 ounces extra-lean ground pork
 - 1 1/2 tablespoons chopped parsley
 - 1/2 teaspoon garlic powder
+<!---->
 - 2 ounces shredded Monterey Jack cheese
+<!---->
 - 2 teaspoons fresh lemon juice
 - 1/2 ripe peeled avocado
+<!---->
 - 2 small ripe tomatoes, sliced
 - 8 small lettuce leaves
 ##  *Directions*

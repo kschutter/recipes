@@ -11,6 +11,7 @@
 - 1/2 teaspoon chili powder
 - 1/4 teaspoon onion powder (optional)
 - 1/4 teaspoon salt
+<!---->
 - 1 tablespoon olive oil
 - Squeeze of lime
 

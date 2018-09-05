@@ -9,16 +9,17 @@
 - 1 red bell pepper, seeded and chopped
 - 2 cups sliced carrots
 - 4 garlic cloves, minced
+<!---->
 - 1 1/4 pounds boneless skinless chicken breast, 2 large breasts
 - 9 cups chicken broth
+- 1 1/2 teaspoons dried thyme leaves
+- 1/2 teaspoon crushed black pepper
+<!---->
 - 8.8 ounce package Cheese Tortellini Pasta
+<!---->
 - 1/4 - 1/3 cup heavy cream
 - 2 tablespoons packed frozen spinach
-- 1/2 cup fresh baby spinach leaves
 - 2 tablespoons fresh chopped parsley
-- 1 1/2 teaspoons dried thyme leaves
-- 1 tablespoon fresh thyme leaves
-- 1/2 teaspoon crushed red pepper
 - Salt and pepper
 
 ##  *Directions*
