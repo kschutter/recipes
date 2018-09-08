@@ -31,10 +31,10 @@
     You may need to add more water to get the consistency thinner depending on the size of avocado used. 
     It should be like a thick and creamy salad dressing.
 4. Once the chicken is done marinating, cook it on the grill outside or in a cast iron skillet on the stove.
-    Either way, use medium-high heat and grease the grill our your grill pan with more avocado or olive oil. 
+    Either way, use medium-high heat and grease the grill with more olive oil.
     Place your chicken on the grill or in the pan and cook for about 6 minutes on each side, or until 
     the chicken is cooked all the way through.
-5. While the chicken is going, cook your rice. Add your chopped cilantro, and season with your olive oil, salt and pepper. It will only take about 5 minutes, so you can
+5. While the chicken is going, cook your rice. Add your chopped cilantro, and season with olive oil, salt and pepper. It will only take about 5 minutes, so you can
     wait till you flip the chicken to start. Cook your rice over medium heat, stirring occasionally.
     You can also cover your pan to speed up the cooking time as needed.
 6. Create a bed of rice, then add your chicken on top, drizzle the avocado cream, and top with fresh cilantro.
