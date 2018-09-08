@@ -12,12 +12,12 @@
 - 1/4 teaspoon onion powder (optional)
 - 1/4 teaspoon salt
 <!---->
+- 1 tablespoon olive oil
+- Squeeze of lime
+<!---->
 - 1/4 cup sour cream
 - 2 tablespoons cilantro (finely chopped)
 - 1 tablespoon lime juice
-<!---->
-- 1 tablespoon olive oil
-- Squeeze of lime
 
 ##  *Directions*
 1. In a medium bowl whisk together olive oil, garlic, cumin, chili and onion powders, and salt. Add in shrimp and toss to coat completely. Cover and refrigerate for at least 10 minutes or up to 24 hours.
