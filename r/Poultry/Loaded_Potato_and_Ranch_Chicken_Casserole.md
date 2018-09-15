@@ -13,11 +13,12 @@ salt & pepper to taste
 - 1 cup cooked & crumbled bacon
 - 1/2 cup diced green onion
 ##  *Directions*
+1. Preheat oven to 425 F
 1. Spray a 9 x 13 baking dish with nonstick cooking spray.
 2. Dice your Little Potatoes into 1-inch cubes.
 3. In a large bowl mix together the diced potatoes, salt & pepper and 1/4 cup ranch dressing.
 4. Scoop the potatoes into prepared baking dish (save that bowl, we're going to use it again for the chicken.)
-5. Bake the potatoes for 30 minutes, stirring every 10 minutes, until almost thoroughly cooked (they won't be fork tender quite yet.).
+5. Bake the potatoes for 30 minutes, until almost thoroughly cooked (they won't be fork tender quite yet.).
 6. While the potatoes are cooking, add the cubed chicken to the bowl you used to the potatoes and add salt and pepper and the remaining 1/4 cup ranch seasoning.
 7. Once the potatoes have cooked 30 minutes, remove baking dish from the oven and lower the oven temperature to 400F.
 8. Top the cooked potatoes with the raw marinated chicken.
