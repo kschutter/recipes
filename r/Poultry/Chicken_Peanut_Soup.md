@@ -25,8 +25,10 @@ minutes.
 2. Meanwhile, in a stockpot, heat the olive oil over medium heat.  Add
 the onion, chile and bell pepper and cook until softened, about 10
 minutes.
+
 3. Remove the chicken breasts from the broth and shred the meat; set
 aside.
+
 4. Pour 1/4 of the broth into the stockpot.  In a blender, puree the rest
 of the broth and all of the potatoes.  Pour the mixture into the
 stockpot and stir in the peanut butter until combined.  Add the

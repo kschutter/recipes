@@ -21,12 +21,18 @@
 - 4 pork chops, about 1 inch thick (bone in or out)
 ##  *Directions*
 1. Preheat oven to 425 degrees F.
+
 2. Melt butter and olive oil in an oven-proof skillet.
+
 3. Season flour with salt and pepper and put on a small plate.
+
 4. Mix breadcrumbs, parmesan cheese, sage, and lemon rind in a bowl.  Put
 on a separate small plate.
+
 5. Coat chops in flour, dip in egg, dip in bread crumb mixture and set
 aside.
+
 6. Brown chops in butter and oil until golden.
+
 7. Transfer skillet to oven and bake until meat thermometer says 150
 degrees F, about 15 minutes.
