@@ -7,7 +7,7 @@
 ### Guacamole
 - 2 avocados - halved, peeled, and pitted
 - 1/2 lime, juiced
-- 1 fresh jalapeno peppers, seeded and minced
+- 1 fresh jalapeno pepper, seeded and minced
 - 1/2 cup diced tomatoes
 - 1/4 cup minced onion
 - 1 1/2 teaspoons minced garlic
