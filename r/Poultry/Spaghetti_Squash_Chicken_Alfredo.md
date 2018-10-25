@@ -6,7 +6,6 @@
 ##  *Ingredients*
 - 1 medium spaghetti squash, halved lengthwise and seeds removed
 - 1 1/2 lbs chicken breast
-- 2 cloves garlic, peeled
 - 1 tablespoon lemon juice
 - Salt
 - 1/2 cup fresh basil, thinly sliced; plus more for garnish
@@ -22,4 +21,4 @@
 
 5. Add diced chicken and toss with alfredo sauce. Place back into the still-warm oven for 10 minutes to warm.
 
-6. Stir chopped basil into spaghetti squash mixture just before serving. Top with additional basil, as desired.
+6. Stir chopped basil and lemon juice into spaghetti squash mixture just before serving. Top with additional basil, as desired.
