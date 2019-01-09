@@ -1,37 +1,53 @@
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
+import java.util.Scanner;
+
 public class Config {
 
-    File readme;
-    Scanner sc;
-    PrintWriter writer = new PrintWriter("README.md", "UTF-8");
+    private static File readme;
+    private static Scanner sc;
 
-    String toc = "# kschutter Culinary Recipes\n" +
+
+    private static String toc = "# kschutter Culinary Recipes\n" +
             "\n" +
-            "- [Poultry](#poultry)\n" +
             "- [Beef](#beef)\n" +
-            "- [Beverage](#beverage)\n\n";
-    String[] types = ["Poultry", "Beef", "Beverage"];
+            "- [Beverage](#beverage)\n" +
+            "- [Pork](#pork)\n" +
+            "- [Poultry](#poultry)\n" +
+            "- [Seafood](#seafood)\n" +
+            "- [Treats](#treats)\n" +
+            "\n";
+    private static String[] types = { "Beef", "Beverage", "Pork", "Poultry", "Seafood", "Treats"};
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException {
 
-        try {
-            readme = new File("README.md");
-        } catch (Exception e) {
-            System.out.println(e.getMessage());
-        }
-
-        writer.println(toc);
+        PrintWriter pw = new PrintWriter("README.md", "UTF-8");
+        pw.println(toc);
 
         for (String type: types) {
-            writer.println("## " + type);
+            pw.println("\n## " + type + "\n");
 
             File dir = new File("r/" + type);
             File[] directoryListing = dir.listFiles();
 
-            for (File child : directoryListing) {
-                sc = new Scanner(child);
-                String title = sc.nextLine().substring(4);
-                writer.println("- " + title);
+            for (int i = 0; i < directoryListing.length; i++) {
+                pw.println("\n- [" + parseName(directoryListing[i].getName()) + "](" +
+                        directoryListing[i]);
             }
         }
+
+        pw.close();
+    }
+
+    private static String parseName(String name) {
+        char[] chars = name.toCharArray();
+        for (int i = 0; i < chars.length; i++) {
+            if (chars[i] == '_')
+                chars[i] = ' ';
+        }
+        return new String(chars).substring(0, chars.length-3);
     }
 }
