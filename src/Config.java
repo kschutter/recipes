@@ -35,7 +35,7 @@ public class Config {
 
             for (int i = 0; i < directoryListing.length; i++) {
                 pw.println("\n- [" + parseName(directoryListing[i].getName()) + "](" +
-                        directoryListing[i]);
+                        directoryListing[i] + ")");
             }
         }
 
