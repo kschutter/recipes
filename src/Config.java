@@ -34,8 +34,9 @@ public class Config {
             File[] directoryListing = dir.listFiles();
 
             for (int i = 0; i < directoryListing.length; i++) {
+                String link = directoryListing[i].getPath();
                 pw.println("\n- [" + parseName(directoryListing[i].getName()) + "](" +
-                        directoryListing[i] + ")");
+                         fixLink(link) + ")");
             }
         }
 
@@ -49,5 +50,14 @@ public class Config {
                 chars[i] = ' ';
         }
         return new String(chars).substring(0, chars.length-3);
+    }
+
+    private static String fixLink(String link) {
+        char[] chars = link.toCharArray();
+        for (int i = 0; i < chars.length; i++) {
+            if (chars[i] == '\\')
+                chars[i] = '/';
+        }
+        return new String(chars);
     }
 }
