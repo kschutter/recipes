@@ -20,6 +20,8 @@
 
 - [Honey BBQ Oven Shortribs](r/Beef/Honey_BBQ_Oven_Shortribs.md)
 
+- [Korean Beef Rice Bowls](r/Beef/Korean_Beef_Rice_Bowls.md)
+
 - [Meatloaf](r/Beef/Meatloaf.md)
 
 - [Mexi Ground Beef Chili Macaroni Casserole](r/Beef/Mexi_Ground_Beef_Chili_Macaroni_Casserole.md)
@@ -71,6 +73,8 @@
 
 - [Chicken Fried Rice](r/Poultry/Chicken_Fried_Rice.md)
 
+- [Chicken Lasagna Rolls](r/Poultry/Chicken_Lasagna_Rolls.md)
+
 - [Chicken Parmesan](r/Poultry/Chicken_Parmesan.md)
 
 - [Chicken Peanut Soup](r/Poultry/Chicken_Peanut_Soup.md)
@@ -78,6 +82,8 @@
 - [Chicken Pesto Spaghetti Squash](r/Poultry/Chicken_Pesto_Spaghetti_Squash.md)
 
 - [Chicken Piccata](r/Poultry/Chicken_Piccata.md)
+
+- [Chicken Pot Pie](r/Poultry/Chicken_Pot_Pie.md)
 
 - [Chicken Tamale Casserole](r/Poultry/Chicken_Tamale_Casserole.md)
 
