@@ -14,6 +14,8 @@
 
 - [French Onion Beef Casserole](r/Beef/French_Onion_Beef_Casserole.md)
 
+- [Garlic Butter Brazilian Steak](r/Beef/Garlic_Butter_Brazilian_Steak.md)
+
 - [Guacamole Cilantro Lime Cheeseburgers](r/Beef/Guacamole_Cilantro_Lime_Cheeseburgers.md)
 
 - [Hamburger Casserole](r/Beef/Hamburger_Casserole.md)
@@ -59,6 +61,8 @@
 
 - [Baked Paprika Chicken](r/Poultry/Baked_Paprika_Chicken.md)
 
+- [Buffalo Chicken Wraps](r/Poultry/Buffalo_Chicken_Wraps.md)
+
 - [Cashew Chicken and Rice](r/Poultry/Cashew_Chicken_and_Rice.md)
 
 - [Cheese Stuffed Chicken Meatballs](r/Poultry/Cheese_Stuffed_Chicken_Meatballs.md)
@@ -68,6 +72,8 @@
 - [Chicken and Avacado Burritos](r/Poultry/Chicken_and_Avacado_Burritos.md)
 
 - [Chicken and Rice Casserole](r/Poultry/Chicken_and_Rice_Casserole.md)
+
+- [Chicken Cordon Bleu Noodle Bake](r/Poultry/Chicken_Cordon_Bleu_Noodle_Bake.md)
 
 - [Chicken Fajita Quesadilla](r/Poultry/Chicken_Fajita_Quesadilla.md)
 
