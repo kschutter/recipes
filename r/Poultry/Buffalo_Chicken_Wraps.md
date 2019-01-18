@@ -12,7 +12,7 @@
 - 1/4 cup ranch or blue cheese dressing
 - 4 medium flour tortillas
 
-###### Optional fillings: tomato onion, shredded cheese
+###### Optional fillings: tomato, onion, shredded cheese
 
 ##  *Directions*
 
