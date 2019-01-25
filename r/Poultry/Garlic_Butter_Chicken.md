@@ -1,4 +1,4 @@
-# Garlic Butter Chicken
+# Garlic Butter Chicken and Rice
 
 ######  Yield: 6 servings
 ######  Time: 1 hour
