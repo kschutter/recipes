@@ -42,6 +42,8 @@
 
 - [Cajun Chicken and Sausage Alfredo Pasta](r/Pork/Cajun_Chicken_and_Sausage_Alfredo_Pasta.md)
 
+- [Creamy Pork Chops](r/Pork/Creamy_Pork_Chops.md)
+
 - [Grilled Cuban Pork Chops](r/Pork/Grilled_Cuban_Pork_Chops.md)
 
 - [Parmesan Sage Pork Chops](r/Pork/Parmesan_Sage_Pork_Chops.md)
@@ -95,6 +97,8 @@
 
 - [Chicken Tortilla Soup](r/Poultry/Chicken_Tortilla_Soup.md)
 
+- [Chicken Zucchini Casserole](r/Poultry/Chicken_Zucchini_Casserole.md)
+
 - [Cilantro Lime Chicken Bowl](r/Poultry/Cilantro_Lime_Chicken_Bowl.md)
 
 - [Creamy Chicken Tortellini Soup](r/Poultry/Creamy_Chicken_Tortellini_Soup.md)
@@ -104,6 +108,8 @@
 - [Creamy Herb Chicken](r/Poultry/Creamy_Herb_Chicken.md)
 
 - [Crunchy Onion Chicken](r/Poultry/Crunchy_Onion_Chicken.md)
+
+- [Garlic Butter Chicken](r/Poultry/Garlic_Butter_Chicken.md)
 
 - [Gaucamole Stuffed Chicken](r/Poultry/Gaucamole_Stuffed_Chicken.md)
 
