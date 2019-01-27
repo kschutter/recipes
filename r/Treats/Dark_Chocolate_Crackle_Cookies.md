@@ -25,10 +25,10 @@ ingredients into wet ingredients, stirring until well combined.  Fold
 in chocolate chips.  Cover and refrigerate for at least two hours.
 
 3. Heat oven to 350 degrees F.  Line cookie sheets with parchment paper.
-Place powdered sugar in a small bowl.  Scoop out small teaspoons of
+Place powdered sugar in a small bowl.  Scoop out teaspoons of
 dough, drop in sugar, and roll until covered.  Place on baking sheet,
 about two to three inches apart.
 
-4. Bake for 9-11 minutes, until just set.  Take out of oven and let rest
+4. Bake for 15 minutes, until just set.  Take out of oven and let rest
 on cookie sheet about five minutes.  Take off, cool on wire rack or
 parchment paper.
