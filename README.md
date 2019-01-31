@@ -44,6 +44,8 @@
 
 - [Creamy Pork Chops](r/Pork/Creamy_Pork_Chops.md)
 
+- [Garlic Herb Stuffed Pork Chops](r/Pork/Garlic_Herb_Stuffed_Pork_Chops.md)
+
 - [Grilled Cuban Pork Chops](r/Pork/Grilled_Cuban_Pork_Chops.md)
 
 - [Parmesan Sage Pork Chops](r/Pork/Parmesan_Sage_Pork_Chops.md)
@@ -101,6 +103,8 @@
 
 - [Cilantro Lime Chicken Bowl](r/Poultry/Cilantro_Lime_Chicken_Bowl.md)
 
+- [Creamy Cheesy Chicken Spaghetti](r/Poultry/Creamy_Cheesy_Chicken_Spaghetti.md)
+
 - [Creamy Chicken Tortellini Soup](r/Poultry/Creamy_Chicken_Tortellini_Soup.md)
 
 - [Creamy Garlic Chicken with Broccoli](r/Poultry/Creamy_Garlic_Chicken_with_Broccoli.md)
@@ -131,6 +135,8 @@
 
 ## Seafood
 
+
+- [Garlic Honey Lime Shrimp](r/Seafood/Garlic_Honey_Lime_Shrimp.md)
 
 - [Garlic Parmesan Crusted Salmon and Asparagus](r/Seafood/Garlic_Parmesan_Crusted_Salmon_and_Asparagus.md)
 
