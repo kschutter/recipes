@@ -123,7 +123,11 @@
 
 - [Hot Chicken Sliders](r/Poultry/Hot_Chicken_Sliders.md)
 
+- [Lemon Garlic Chicken and Veggies](r/Poultry/Lemon_Garlic_Chicken_and_Veggies.md)
+
 - [Loaded Potato and Ranch Chicken Casserole](r/Poultry/Loaded_Potato_and_Ranch_Chicken_Casserole.md)
+
+- [Perfect Chicken Tacos](r/Poultry/Perfect_Chicken_Tacos.md)
 
 - [Pesto Baked Chicken](r/Poultry/Pesto_Baked_Chicken.md)
 
