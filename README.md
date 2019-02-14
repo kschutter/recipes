@@ -52,6 +52,8 @@
 
 - [Pork Chops with Bok Choy](r/Pork/Pork_Chops_with_Bok_Choy.md)
 
+- [Pork Chops Yum Yum](r/Pork/Pork_Chops_Yum_Yum.md)
+
 - [Pork Sliders with Smashed Avacado](r/Pork/Pork_Sliders_with_Smashed_Avacado.md)
 
 - [Toad in the Hole](r/Pork/Toad_in_the_Hole.md)
@@ -76,6 +78,8 @@
 - [Chicken and Avacado Burritos](r/Poultry/Chicken_and_Avacado_Burritos.md)
 
 - [Chicken and Rice Casserole](r/Poultry/Chicken_and_Rice_Casserole.md)
+
+- [Chicken Caprese Pasta](r/Poultry/Chicken_Caprese_Pasta.md)
 
 - [Chicken Cordon Bleu Noodle Bake](r/Poultry/Chicken_Cordon_Bleu_Noodle_Bake.md)
 
