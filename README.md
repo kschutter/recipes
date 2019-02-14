@@ -6,6 +6,7 @@
 - [Poultry](#poultry)
 - [Seafood](#seafood)
 - [Treats](#treats)
+- [Vegetable](#vegetable)
 
 
 
@@ -174,3 +175,10 @@
 - [Pumpkin Cranberry Bread](r/Treats/Pumpkin_Cranberry_Bread.md)
 
 - [Pumpkin Swirl Chocolate Brownies](r/Treats/Pumpkin_Swirl_Chocolate_Brownies.md)
+
+## Vegetable
+
+
+- [Carrots with Ginger and Honey](r/Vegetable/Carrots_with_Ginger_and_Honey.md)
+
+- [Potato Corn Chowder](r/Vegetable/Potato_Corn_Chowder.md)

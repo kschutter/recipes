@@ -19,12 +19,13 @@ public class Config {
             "- [Poultry](#poultry)\n" +
             "- [Seafood](#seafood)\n" +
             "- [Treats](#treats)\n" +
+            "- [Vegetable](#vegetable)\n" +
             "\n";
-    private static String[] types = { "Beef", "Beverage", "Pork", "Poultry", "Seafood", "Treats"};
+    private static String[] types = { "Beef", "Beverage", "Pork", "Poultry", "Seafood", "Treats", "Vegetable"};
 
     public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException {
 
-        PrintWriter pw = new PrintWriter("README.md", "UTF-8");
+        PrintWriter pw = new PrintWriter("README.md");
         pw.println(toc);
 
         for (String type: types) {
@@ -33,10 +34,16 @@ public class Config {
             File dir = new File("r/" + type);
             File[] directoryListing = dir.listFiles();
 
-            for (int i = 0; i < directoryListing.length; i++) {
-                String link = directoryListing[i].getPath();
-                pw.println("\n- [" + parseName(directoryListing[i].getName()) + "](" +
-                         fixLink(link) + ")");
+//            for (int i = 0; i < directoryListing.length; i++) {
+//                String link = directoryListing[i].getPath();
+//                pw.println("\n- [" + parseName(directoryListing[i].getName()) + "](" +
+//                         fixLink(link) + ")");
+//            }
+
+            for (File file : directoryListing) {
+                String link = file.getPath();
+                pw.println("\n- [" + parseName(file.getName()) + "](" +
+                        fixLink(link) + ")");
             }
         }
 
