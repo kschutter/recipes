@@ -68,6 +68,8 @@
 
 - [Baked Paprika Chicken](r/Poultry/Baked_Paprika_Chicken.md)
 
+- [Broccoli Chicken Casserole with Cream Cheese](r/Poultry/Broccoli_Chicken_Casserole_with_Cream_Cheese.md)
+
 - [Buffalo Chicken Wraps](r/Poultry/Buffalo_Chicken_Wraps.md)
 
 - [Cashew Chicken and Rice](r/Poultry/Cashew_Chicken_and_Rice.md)
@@ -139,6 +141,8 @@
 - [Simple Grilled Chicken](r/Poultry/Simple_Grilled_Chicken.md)
 
 - [Spaghetti Squash Chicken Alfredo](r/Poultry/Spaghetti_Squash_Chicken_Alfredo.md)
+
+- [Spicy Bolivian Chicken](r/Poultry/Spicy_Bolivian_Chicken.md)
 
 - [Taco Lime Grilled Chicken](r/Poultry/Taco_Lime_Grilled_Chicken.md)
 
