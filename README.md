@@ -45,6 +45,8 @@
 
 - [Creamy Pork Chops](r/Pork/Creamy_Pork_Chops.md)
 
+- [French Onion Pork Chops](r/Pork/French_Onion_Pork_Chops.md)
+
 - [Garlic Herb Stuffed Pork Chops](r/Pork/Garlic_Herb_Stuffed_Pork_Chops.md)
 
 - [Grilled Cuban Pork Chops](r/Pork/Grilled_Cuban_Pork_Chops.md)
@@ -73,6 +75,8 @@
 - [Buffalo Chicken Wraps](r/Poultry/Buffalo_Chicken_Wraps.md)
 
 - [Cashew Chicken and Rice](r/Poultry/Cashew_Chicken_and_Rice.md)
+
+- [Chedder Bacon Chicken Tenders](r/Poultry/Chedder_Bacon_Chicken_Tenders.md)
 
 - [Cheese Stuffed Chicken Meatballs](r/Poultry/Cheese_Stuffed_Chicken_Meatballs.md)
 
@@ -148,6 +152,8 @@
 
 ## Seafood
 
+
+- [Garlicy Baked Shrimp](r/Seafood/Garlicy_Baked_Shrimp.md)
 
 - [Garlic Honey Lime Shrimp](r/Seafood/Garlic_Honey_Lime_Shrimp.md)
 
