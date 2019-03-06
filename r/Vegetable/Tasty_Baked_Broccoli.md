@@ -20,4 +20,4 @@
 
 3. Add chopped broccoli and seal, mixing thoroughly
 
-4. Place seasoned broccoli on greased pan, bake for 18-20 minutes, until crispy.
+4. Place seasoned broccoli on an ungreased pan, bake for 18-20 minutes, until crispy.
