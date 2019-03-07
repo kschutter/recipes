@@ -10,7 +10,7 @@
 <!---->
 - 1 cup fat-free milk
 - 2 tablespoons cornstarch
-- 3/4 cup reduced-sodium chicken broth
+- 3/4 cup chicken broth
 <!---->
 - 2 cups diced cooked turkey or chicken
 - 2 tablespoons dried minced onion
