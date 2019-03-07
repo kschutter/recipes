@@ -90,6 +90,8 @@
 
 - [Chicken Cordon Bleu Noodle Bake](r/Poultry/Chicken_Cordon_Bleu_Noodle_Bake.md)
 
+- [Chicken Curry](r/Poultry/Chicken_Curry.md)
+
 - [Chicken Fajita Quesadilla](r/Poultry/Chicken_Fajita_Quesadilla.md)
 
 - [Chicken Fried Rice](r/Poultry/Chicken_Fried_Rice.md)
@@ -148,10 +150,14 @@
 
 - [Spicy Bolivian Chicken](r/Poultry/Spicy_Bolivian_Chicken.md)
 
+- [Spinach and Artichoke Chicken](r/Poultry/Spinach_and_Artichoke_Chicken.md)
+
 - [Taco Lime Grilled Chicken](r/Poultry/Taco_Lime_Grilled_Chicken.md)
 
 ## Seafood
 
+
+- [Baked Salmon with Fresh Herbs](r/Seafood/Baked_Salmon_with_Fresh_Herbs.md)
 
 - [Garlicy Baked Shrimp](r/Seafood/Garlicy_Baked_Shrimp.md)
 
@@ -192,3 +198,5 @@
 - [Carrots with Ginger and Honey](r/Vegetable/Carrots_with_Ginger_and_Honey.md)
 
 - [Potato Corn Chowder](r/Vegetable/Potato_Corn_Chowder.md)
+
+- [Tasty Baked Broccoli](r/Vegetable/Tasty_Baked_Broccoli.md)
