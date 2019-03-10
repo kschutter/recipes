@@ -197,6 +197,8 @@
 
 - [Carrots with Ginger and Honey](r/Vegetable/Carrots_with_Ginger_and_Honey.md)
 
+- [Garlic Parmesan Butter Roasted Potatoes](r/Vegetable/Garlic_Parmesan_Butter_Roasted_Potatoes.md)
+
 - [Potato Corn Chowder](r/Vegetable/Potato_Corn_Chowder.md)
 
 - [Tasty Baked Broccoli](r/Vegetable/Tasty_Baked_Broccoli.md)
