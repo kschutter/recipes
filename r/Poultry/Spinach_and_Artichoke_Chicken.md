@@ -1,5 +1,4 @@
-- 8 oz Mozzarella Cheese, grated
-- 3 oz Freshly Grated Parmesan# Spinach and Artichoke Chicken
+# Spinach and Artichoke Chicken
 
 ######  Yield: 6 servings
 ######  Time: 50 minutes
