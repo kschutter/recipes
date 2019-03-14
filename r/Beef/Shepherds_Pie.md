@@ -7,9 +7,11 @@
 
 - 2 lbs potatoes, peeled and quartered
 - 8 tablespoons butter (1 stick)
+<!---->
 - 1 medium onion, chopped
 - 1-2 cups vegetables - diced carrots, onions, peas
 - 1 1/2 lbs ground beef
+<!---->
 - 1/2 cup beef broth
 - 1 teaspoon worcestershire sauce
 - salt, pepper, other seasonings of choice 
