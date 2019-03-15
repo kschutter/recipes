@@ -13,17 +13,17 @@ public class Config {
 
     private static String toc = "# kschutter Culinary Recipes\n" +
             "\n" +
-            "- [Beef](#beef)\n" +
-            "- [Beverage](#beverage)\n" +
-            "- [Pork](#pork)\n" +
-            "- [Poultry](#poultry)\n" +
-            "- [Seafood](#seafood)\n" +
-            "- [Treats](#treats)\n" +
-            "- [Vegetable](#vegetable)\n" +
+            "- [Beef :cow2:](#beef)\n" +
+            "- [Beverage :tropical_drink:](#beverage)\n" +
+            "- [Pork :pig2:](#pork)\n" +
+            "- [Poultry :chicken:](#poultry)\n" +
+            "- [Seafood :fish:](#seafood)\n" +
+            "- [Treats :cake:](#treats)\n" +
+            "- [Vegetable :herb:](#vegetable)\n" +
             "\n";
     private static String[] types = { "Beef", "Beverage", "Pork", "Poultry", "Seafood", "Treats", "Vegetable"};
 
-    public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException {
+    public static void main(String[] args) throws FileNotFoundException, NullPointerException {
 
         PrintWriter pw = new PrintWriter("README.md");
         pw.println(toc);
@@ -40,15 +40,18 @@ public class Config {
 //                         fixLink(link) + ")");
 //            }
 
-            for (File file : directoryListing) {
-                String link = file.getPath();
-                pw.println("\n- [" + parseName(file.getName()) + "](" +
-                        fixLink(link) + ")");
-            }
+            try {
+                for (File file : directoryListing) {
+                    String link = file.getPath();
+                    pw.println("\n- [" + parseName(file.getName()) + "](" +
+                            fixLink(link) + ")");
+                }
+            } catch (NullPointerException e) {}
         }
 
         pw.close();
     }
+
 
     private static String parseName(String name) {
         char[] chars = name.toCharArray();

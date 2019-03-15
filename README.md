@@ -1,12 +1,12 @@
 # kschutter Culinary Recipes
 
-- [Beef](#beef)
-- [Beverage](#beverage)
-- [Pork](#pork)
-- [Poultry](#poultry)
-- [Seafood](#seafood)
-- [Treats](#treats)
-- [Vegetable](#vegetable)
+- [Beef :cow2:](#beef)
+- [Beverage :tropical_drink:](#beverage)
+- [Pork :pig2:](#pork)
+- [Poultry :chicken:](#poultry)
+- [Seafood :fish:](#seafood)
+- [Treats :cake:](#treats)
+- [Vegetable :herb:](#vegetable)
 
 
 
@@ -28,6 +28,8 @@
 - [Meatloaf](r/Beef/Meatloaf.md)
 
 - [Mexi Ground Beef Chili Macaroni Casserole](r/Beef/Mexi_Ground_Beef_Chili_Macaroni_Casserole.md)
+
+- [Shepherds Pie](r/Beef/Shepherds_Pie.md)
 
 - [Tacos](r/Beef/Tacos.md)
 
@@ -160,6 +162,8 @@
 - [Baked Salmon with Fresh Herbs](r/Seafood/Baked_Salmon_with_Fresh_Herbs.md)
 
 - [Garlicy Baked Shrimp](r/Seafood/Garlicy_Baked_Shrimp.md)
+
+- [Garlic Butter Baked Salmon](r/Seafood/Garlic_Butter_Baked_Salmon.md)
 
 - [Garlic Honey Lime Shrimp](r/Seafood/Garlic_Honey_Lime_Shrimp.md)
 
