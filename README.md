@@ -59,6 +59,8 @@
 
 - [Pork Chops Yum Yum](r/Pork/Pork_Chops_Yum_Yum.md)
 
+- [Pork Schnitzel](r/Pork/Pork_Schnitzel.md)
+
 - [Pork Sliders with Smashed Avacado](r/Pork/Pork_Sliders_with_Smashed_Avacado.md)
 
 - [Toad in the Hole](r/Pork/Toad_in_the_Hole.md)
