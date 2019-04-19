@@ -1,4 +1,4 @@
-# Ashie's Chili
+# Chili
 
 ######  Yield: 8-10 servings
 ######  Time: 2 hours

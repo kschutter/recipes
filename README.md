@@ -68,8 +68,6 @@
 ## Poultry
 
 
-- [Ashies Chili](r/Poultry/Ashies_Chili.md)
-
 - [Baked Honey Mustard Chicken](r/Poultry/Baked_Honey_Mustard_Chicken.md)
 
 - [Baked Paprika Chicken](r/Poultry/Baked_Paprika_Chicken.md)
@@ -117,6 +115,8 @@
 - [Chicken Tortilla Soup](r/Poultry/Chicken_Tortilla_Soup.md)
 
 - [Chicken Zucchini Casserole](r/Poultry/Chicken_Zucchini_Casserole.md)
+
+- [Chili](r/Poultry/Chili.md)
 
 - [Cilantro Lime Chicken Bowl](r/Poultry/Cilantro_Lime_Chicken_Bowl.md)
 
