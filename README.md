@@ -201,6 +201,8 @@
 ## Vegetable
 
 
+- [Beer Cheese Mashed Potatoes](r/Vegetable/Beer_Cheese_Mashed_Potatoes.md)
+
 - [Carrots with Ginger and Honey](r/Vegetable/Carrots_with_Ginger_and_Honey.md)
 
 - [Garlic Parmesan Butter Roasted Potatoes](r/Vegetable/Garlic_Parmesan_Butter_Roasted_Potatoes.md)
