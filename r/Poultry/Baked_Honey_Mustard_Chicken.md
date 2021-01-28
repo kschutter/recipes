@@ -15,7 +15,7 @@
 <!---->
 * Juice from 1/2 lemon
 ##  *Directions*
-1. Preheat the oven to 200 degrees C.
+1. Preheat the oven to 400 degrees.
 
 2. Grease an oven-proof dish with the oil or butter and place the chicken in there.
 
