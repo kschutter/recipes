@@ -15,7 +15,7 @@ for category in sorted(os.listdir('r')):
     readme += f'\n## {category}'
     for recipe_file in sorted(os.listdir('r/' + category)):
         recipe_name = recipe_file[:-3].replace('_', ' ')
-        readme += f'\n- [{recipe_name}](r/{category}/{recipe_file}]'
+        readme += f'\n- [{recipe_name}](r/{category}/{recipe_file})'
 
 with open('README.md', 'w') as f:
     f.write(readme)
