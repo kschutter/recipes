@@ -8,7 +8,7 @@
 - [Vegetable :herb:](#vegetable)
 
 ## Beef
-- [French Onion Beef Casserole](r/Beef/French_Onion_Beef_Casserole]
+- [French Onion Beef Casserole](r/Beef/French_Onion_Beef_Casserole.md]
 - [Garlic Butter Brazilian Steak](r/Beef/Garlic_Butter_Brazilian_Steak.md]
 - [Guacamole Cilantro Lime Cheeseburgers](r/Beef/Guacamole_Cilantro_Lime_Cheeseburgers.md]
 - [Hamburger Casserole](r/Beef/Hamburger_Casserole.md]
