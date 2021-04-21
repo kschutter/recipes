@@ -1,22 +1,22 @@
 # Chicken Caprese Pasta
 
 ######  Yield: 8 servings
-######  Time: 50 minutes
+######  Time:  50 minutes
 
 ##  *Ingredients*
 
-- 2 cups diced, cooked chicken
+- 2 cups cooked chicken (diced)
 - 1 3/4 cups halved grape tomatoes (can substitute with a can of undrained diced tomatoes)
 - 12 ounces (about 3 cups) uncooked uncooked penne pasta
-- 3 1/2 cups low-sodium chicken broth*
-- 8 ounces (about 2 cups) shredded mozzarella cheese, divided
-- 1/2 cup chopped or torn fresh basil leaves divided
-- 2 teaspoons minced garlic
+- 3 1/2 cups low-sodium chicken broth
+- 8 ounces (about 2 cups) shredded mozzarella cheese (divided)
+- 1/2 cup chopped or torn fresh basil leaves (divided)
+- 2 teaspoons garlic (minced)
 - 1/2 teaspoon salt
 
 ##  *Directions*
 
-1. Preheat oven to 425F. Spray a 9 x 13-inch baking dish with cooking spray.
+1. Preheat oven to 425F. Spray a 9x13 inch baking dish with cooking spray.
 
 2. In the prepared dish (or in a separate bowl), stir all ingredients save 1/2 cup mozzarella cheese.
 

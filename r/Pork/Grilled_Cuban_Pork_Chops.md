@@ -1,24 +1,27 @@
 # Grilled Cuban Pork Chops
 
 ######  Yield: 4 servings
-######  Time: 20 minutes
+######  Time:  20 minutes
 
 ##  *Ingredients*
 - 1/2 cup orange juice
 - juice of 2 limes
-- 4 large garlic cloves minced
-- 2 tbsp cilantro minced
-- 1/2 tsp salt
-- 1/2 tsp cumin
-- 1/4 tsp pepper
-<!---->
+- 4 large garlic cloves (minced)
+- 2 tablespoons cilantro (minced)
+- 1/2 teaspoon salt
+- 1/2 teaspoon cumin
+- 1/4 teaspoon pepper
+<!--  -->
 - 4 bone in center cut pork chops
-<!---->
+<!--  -->
 - 2-3 bell peppers sliced
 - 1 large white onion sliced
 - 1/4 cup canola oil
-- 1/2 tsp salt
-- 1/4 tsp pepper
+- 1/2 teaspoon salt
+- 1/4 teaspoon pepper
+
+Optional:
+- rice
 
 
 ##  *Directions*

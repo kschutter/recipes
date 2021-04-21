@@ -1,23 +1,23 @@
 # Guacamole Stuffed Chicken Breast
 
 ######  Yield: 4 servings
-######  Time: 1 hour
+######  Time:  1 hour
 
 ##  *Ingredients*
 - 4 small boneless skinless chicken breasts
 - 1 cup guacamole
 - 2 large eggs
-<!---->
+<!--  -->
 - 1 cup plain panko breadcrumbs
-- 2 tsp. lime zest
-- 1/2 tsp. garlic powder
-- 1/2 tsp. chili powder
-- 1/2 tsp. ground cumin
-- 1/4 tsp. salt
-- 1/2 tsp. ground black pepper
+- 2 teaspoons lime zest
+- 1/2 teaspoons garlic powder
+- 1/2 teaspoons chili powder
+- 1/2 teaspoons ground cumin
+- 1/4 teaspoons salt
+- 1/2 teaspoons ground black pepper
 
 ##  *Directions*
-1. Preheat oven to 400 degrees F.
+1. Preheat oven to 400F.
 
 2. Use a mallet to pound each chicken breast thin and flat. Set aside.
 

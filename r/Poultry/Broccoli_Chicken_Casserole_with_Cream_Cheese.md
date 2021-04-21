@@ -1,22 +1,20 @@
 # Broccoli Chicken Casserole with Cream Cheese
 
 ######  Yield: 4-6 servings
-######  Time: 35 minutes 
+######  Time:  35 minutes 
 
 ##  *Ingredients*
-
 - 5 cups shredded cooked chicken breast
-- 3 cloves garlic, minced
+- 3 cloves garlic (minced)
 - 1/2 teaspoon red pepper flakes
 - 1 teaspoon Italian seasoning
-- Fresh cracked pepper, to taste
-<!---->
-- 8 oz (230g) softened cream cheese
+<!--  -->
+- 8 oz (230g) cream cheese (softened)
 - 3/4 cup chicken stock
-<!---->
-- 2 broccoli heads, cut into small florets
+<!--  -->
+- 2 broccoli heads (cut into small florets)
 - 1 1/2 cups shredded mozzarella cheese
-<!---->
+<!--  -->
 - Fresh chopped parsley, or garnish
 
 ##  *Directions*

@@ -1,25 +1,24 @@
 # Title
 
 ######  Yield: 8 servings
-######  Time: 10 minutes
+######  Time:  10 minutes
 
 ##  *Ingredients*
-- 1 pound angel hair pasta cooked al dente
-<!---->
+- 1 pound angel hair pasta (al dente)
+<!--  -->
 - 3 tablespoons extra-virgin olive oil
 - 1 1/2 pounds fresh or frozen jumbo shrimp shells removed
-- 5 cloves garlic chopped
+- 5 cloves garlic (chopped)
 - 10 ounces baby spinach leaves
 - 1 pinch red pepper flakes
-- kosher salt
-- freshly ground black pepper
-<!---->
+<!--  -->
 - 1 tablespoon olive oil
 - 1 1/2 teaspoons lemon zest
 - 3 tablespoons lemon juice
 - 1 1/2 cups ricotta cheese
 - 1/4 cup heavy cream or half and half cream
 - 1/2 cup Parmesan cheese + more to serve
+
 ##  *Directions*
 1. Start the cooking process of the pasta per package instructions. About 7-10 minutes
 

@@ -1,25 +1,22 @@
 # Cheddar Bacon Chicken Tenders
 
 ######  Yield: 4 servings
-######  Time: 1 hour
+######  Time:  1 hour
 
 ##  *Ingredients*
-
 - 16 ounces bacon
-<!-- -->
+<!--  -->
 - 2 eggs
-<!-- -->
+<!--  -->
 - 1 cup panko bread crumbs
-- 3/4 cup cheddar cheese, finely grated
-<!-- -->
-- 1-1/2 pounds chicken tenders
+- 3/4 cup cheddar cheese (finely grated)
+<!--  -->
+- 1 1/2 pounds chicken tenders
 
 ##  *Directions*
+1. Preheat oven to 400F. Spray a large baking sheet with cooking spray.
 
-1. Cook the bacon.  Cool and chop into bits.
-
-2. Preheat oven to 400 degrees F.  Spray a large baking sheet with
-cooking spray.
+2. Cook the bacon.  Cool and chop into bits.
 
 3. In a shallow bowl, beat the eggs.
 

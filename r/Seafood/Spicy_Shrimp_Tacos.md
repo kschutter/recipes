@@ -1,20 +1,20 @@
 # Spicy Shrimp Tacos
 
 ######  Yield: 6 tacos
-######  Time: 30 minutes
+######  Time:  30 minutes
 
 ##  *Ingredients*
 - 20 medium shrimp
 - 1 1/2 tablespoons olive oil
-- 1 garlic clove, minced
+- 1 garlic clove (minced)
 - 1/2 teaspoon cumin
 - 1/2 teaspoon chili powder
 - 1/4 teaspoon onion powder (optional)
 - 1/4 teaspoon salt
-<!---->
+<!--  -->
 - 1 tablespoon olive oil
-- Squeeze of lime
-<!---->
+- squeeze of lime
+<!--  -->
 - 1/4 cup sour cream
 - 2 tablespoons cilantro (finely chopped)
 - 1 tablespoon lime juice

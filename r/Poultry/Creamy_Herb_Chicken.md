@@ -1,22 +1,20 @@
 # Creamy Herb Chicken
 
 ######  Yield: 4 servings
-######  Time: 30 minutes
+######  Time:  30 minutes
 
 ##  *Ingredients*
 - 4 chicken breasts (pounded 1/2-inch thin)
 - 2 teaspoons each of onion powder and garlic powder
-- 1 teaspoon fresh chopped parsley
+- 2 teaspoon fresh parsley (chopped, divided)
 - 1/2 teaspoon each of dried thyme and dried rosemary (or basil and oregeno)
-- salt and pepper, to season
-<!---->
+<!--  -->
 - 3 tablespoon olive oil
-- 4 cloves garlic, minced (or 1 tablespoon minced garlic)
-- 1 teaspoon fresh chopped parsley
+- 4 cloves garlic (minced)
 - 1/2 teaspoon each of dried thyme and dried rosemary
-<!---->
+<!--  -->
 - 1 cup milk (or half and half)
-<!---->
+<!--  -->
 - 1 teaspoon cornstarch mixed with 1 tablespoon water, until smooth
 
 ##  *Directions*

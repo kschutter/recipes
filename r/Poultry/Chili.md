@@ -1,13 +1,14 @@
 # Chili
 
 ######  Yield: 8-10 servings
-######  Time: 2 hours
+######  Time:  2 hours
 
 ##  *Ingredients*
-- 1 lb lean ground turkey (browned)
+- 1 pound lean ground turkey (browned)
+<!--  -->
 - 2 cans dark red kidney beans (drained)
 - 2 cans of black beans with cumin and chili spices
-- 2 28oz cans crushed tomatoes
+- 2 (28oz) cans crushed tomatoes
 - 1 can diced green chilies
 - 2-3 garlic cloves
 - 1 small onion

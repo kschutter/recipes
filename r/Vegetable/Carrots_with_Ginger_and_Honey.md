@@ -4,10 +4,12 @@
 
 ##  *Ingredients*
 - 1 pound carrots
-- salt
+<!--  -->
 - 1 tablespoon butter
-- 1 inch piece of fresh ginger, minced
+- 1 inch piece of fresh ginger (minced)
+<!--  -->
 - 2 tablespoons honey
+
 ##  *Directions*
 1. Peel carrots and slice to a thickness of no more than 1/2".  They can
 be cut lengthwise.

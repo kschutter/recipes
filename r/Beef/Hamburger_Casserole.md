@@ -1,21 +1,21 @@
 # Hamburger Casserole
 
 ######  Yield: 6 servings
-######  Time: 40 minutes
+######  Time:  40 minutes
 
 ##  *Ingredients*
 - 2 cups uncooked rotini pasta
-<!---->
-- 1 lb lean ground beef
+<!--  -->
+- 1 pound lean ground beef
 - 1 medium white or yellow onion, finely chopped (about 1 cup chopped)
 - 1 garlic clove, finely chopped
-<!---->
+<!--  -->
 - 1 teaspoon salt
 - 1/2 teaspoon black pepper
 - 2 tablespoons tomato paste
 - 1 can (28 oz) diced tomatoes
 - 2 tablespoons Dijon Mustard
-<!---->
+<!--  -->
 - 2 cups shredded cheddar cheese
 - chopped dill pickles & chopped tomatoes, for garnish
 

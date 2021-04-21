@@ -1,7 +1,7 @@
 # Garlic Butter Chicken and Rice
 
 ######  Yield: 6 servings
-######  Time: 1 hour
+######  Time:  1 hour
 
 ##  *Ingredients*
 
@@ -9,25 +9,23 @@
 - 1 teaspoon paprika
 - 1 teaspoon dried thyme, or any other dried herbs of your choice
 - 1/2 teaspoon garlic powder
-- salt and fresh ground pepper, to taste
-<!---->
+<!--  -->
 - 4 tablespoons butter
-<!---->
-- 1 yellow onion, diced
-- 4 large cloves garlic, minced
-<!---->
-- 1-1/2 cups long grain white rice
-<!---->
-- 1-1/2 cups chicken broth
-- 1-1/2 cups hot water
-<!---->
+<!--  -->
+- 1 yellow onion (diced)
+- 4 large cloves garlic (minced)
+<!--  -->
+- 1 1/2 cups long grain white rice
+<!--  -->
+- 1 1/2 cups chicken broth
+- 1 1/2 cups hot water
+<!--  -->
 - 1/2 teaspoon dried Italian Seasoning
 - 1/2 teaspoon dried oregano
-<!---->
-- chopped fresh parsley, for garnish
+<!--  -->
+- fresh parsley (chopped) for garnish
 
 ##  *Directions*
-
 1. Preheat oven to 350F.
 
 2. Season chicken thighs with paprika, dried thyme, garlic powder, salt and pepper; set aside.

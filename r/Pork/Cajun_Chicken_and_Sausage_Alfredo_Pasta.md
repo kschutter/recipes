@@ -1,25 +1,25 @@
 # Cajun Chicken and Sausage Alfredo Pasta
 
 ######  Yield: 4 servings
-######  Time: 20 minutes
+######  Time:  20 minutes
 
 ##  *Ingredients*
 - 2 tablespoons of extra virgin olive oil
-- 1/2 pound of chicken cut into bite sized pieces
+- 1/2 pound of chicken (cut into bite sized pieces)
 - 1/4 teaspoon of kosher salt
 - freshly ground black pepper to taste
-<!---->
-- 7 oz smoked sausage sliced on the diagonal
-<!---->
-- 2 cloves of garlic minced
-<!---->
+<!--  -->
+- 7 ounces smoked sausage (sliced on the diagonal)
+<!--  -->
+- 2 cloves garlic (minced)
+<!--  -->
 - 2 cups chicken broth
 - 1 1/4 cups of heavy cream
 - 1/2 pound of dried penne pasta
 - 3/4 tablespoons of Cajun seasoning plus more for topping
-<!---->
-- 2 oz of freshly shredded parmesan cheese
-- 1/2 cup of Italian flat leaf parsley minced
+<!--  -->
+- 2 ounces freshly shredded parmesan cheese
+- 1/2 cup Italian flat leaf parsley (minced)
 
 ##  *Directions*
 1. Start with a large covered cooking pot.

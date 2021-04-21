@@ -1,27 +1,30 @@
 # Chicken Fajita Quesadilla
 
 ######  Yield: 2 Quesadillas
-######  Time: 20 minutes
+######  Time:  20 minutes
 
 ##  *Ingredients*
-- 1/2 lb chicken breast, cut into thin strips
-- 1/2 teaspoon  salt
-- 1/2 teaspoon  pepper
-- 1/2 tablespoon  chili powder
-- 1/2 teaspoon  cumin
-- 1/4 teaspoon  cayenne
-- 1/4 teaspoon  garlic powder
-- 1/2 cup  bell pepper, green, red, or yellow peppers, julienned
-- 1/2 cup  white onion, julienned
+- 1/2 pound chicken breast, cut into thin strips
+- 1/2 teaspoon salt
+- 1/2 teaspoon pepper
+- 1/2 tablespoon chili powder
+- 1/2 teaspoon cumin
+- 1/4 teaspoon cayenne
+- 1/4 teaspoon garlic powder
+<!--  -->
+- 1/2 cup bell pepper, green, red, or yellow peppers (julienned)
+- 1/2 cup white onion (julienned)
+<!--  -->
 - 2 large flour tortillas
 - 2 cups shredded cheddar cheese
 - 2 cups shredded monterey jack cheese
-<!---->
-###### Optional:
+<!--  -->
+##### Optional:
 - fresh cilantro
 - guacamole
 - sour cream
 - pico de gallo, or salsa
+
 ##  *Directions*
 1. In a large skillet, coat chicken with salt, pepper, chili powder, cumin, cayenne, and garlic powder. Cook 5-7 minutes.
 

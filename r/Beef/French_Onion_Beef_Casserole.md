@@ -1,16 +1,19 @@
 # French Onion Beef Casserole
 
 ######  Yield: 6 servings
-######  Time: 50 minutes
+######  Time:  50 minutes
 
 ##  *Ingredients*
 - 10 ounces egg noodles
 - 1 pound lean ground beef
+<!--  -->
 - 2 cans (10.75 ounces each) cream of mushroom soup
 - 1 jar (15 ounce) french onion dip
+<!--  -->
 - 1 cup fried onions
+
 ##  *Directions*
-1. Preheat oven to 350 degrees F. Spray a 9x13-inch baking pan with non-stick spray.
+1. Preheat oven to 350F. Spray a 9x13-inch baking pan with non-stick spray.
 
 2. Cook egg noodles in a large pot of water, according to package directions. Drain.
 

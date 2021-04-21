@@ -1,27 +1,27 @@
 # Chicken Parmesan
 
 ######  Yield: 4 servings
-######  Time: 40 minutes
+######  Time:  40 minutes
 
 ##  *Ingredients*
 - 4 chicken breasts boneless and skinless
 - 1/2 teaspoon Kosher salt
 - 1/4 teaspoon coarse ground black pepper
-<!---->
+<!--  -->
 - 4 tablespoons flour
 - 2 large eggs
 - 1 cup panko bread crumbs
 - 1/2 cup grated Parmesan cheese
-<!---->
+<!--  -->
 - 2 tablespoons olive oil
 - 2 tablespoons butter
 <!---->
 - 1 cup marinara sauce
 - 1/2 cup shredded mozzarella
-- 1/2 cup  shredded provolone cheese
+- 1/2 cup shredded provolone cheese
 
 ##  *Directions*
-1. Preheat oven to 375 F
+1. Preheat oven to 375F.
 
 2. Put the chicken breasts between two pieces of saran wrap or parchment paper.
 

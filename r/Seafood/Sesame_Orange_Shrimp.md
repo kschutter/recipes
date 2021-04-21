@@ -1,21 +1,20 @@
 # Sesame Orange Shrimp
 
 ######  Yield: 4 servings
-######  Time: 25 minutes
+######  Time:  25 minutes
 
 ##  *Ingredients*
 - 2 large egg whites
 - 1/4 cup cornstarch
 - 1/4 cup sesame seeds
-- Coarse salt and ground pepper
-- 1 1/2 lb. medium shrimp peeled and deveined
-<!---->
+- 1 1/2 pounds medium shrimp (peeled and deveined)
+<!--  -->
 - 1/4 cup vegetable oil plus more if needed
-<!---->
+<!--  -->
 - 1 cup fresh orange juice
 - 2 tablespoons soy sauce
 - 1 tablespoon sugar
-- 4 scallions trimmed and thinly sliced
+- 4 scallions (trimmed and thinly sliced)
 
 ##  *Directions*
 1. In a large bowl, whisk together egg whites, cornstarch, sesame seeds, 1 teaspoon salt, and 1/2 teaspoon pepper until frothy. Add shrimp, and toss to coat.

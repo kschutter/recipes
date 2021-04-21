@@ -1,19 +1,19 @@
 # Honey Lime Chicken
 
 ######  Yield: 3 servings
-######  Time: 25 minutes
+######  Time:  25 minutes
 
 ##  *Ingredients*
-- 1 lb boneless skinless chicken breasts
-- 2 cloves garlic minced
+- 1 pound boneless skinless chicken breasts
+- 2 cloves garlic (minced)
 - 1 heaping tablespoon honey
 - 1 tablespoon soy sauce
 - 1 tablespoon lime juice
 - Pinch of cayenne pepper
 - Pinch of salt
-<!---->
-- Chopped parsley
-- Lime wedges
+<!--  -->
+- fresh parsley (chopped)
+- lime wedges
 
 ##  *Directions*
 1. Preheat the oven to 400F.

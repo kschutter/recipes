@@ -1,24 +1,24 @@
 # Cheese Stuffed Chicken Meatballs
 
 ######  Yield: 6 large meatballs
-######  Time: 30 minutes
+######  Time:  30 minutes
 
 ##  *Ingredients*
 - 3.5 ounces onion (about 1/2 onion, minced)
-<!---->
+<!--  -->
 - 1 pound ground chicken
 - 1 egg
 - 3/4 cup panko
 - 1/4 teaspoon salt
 - 1/8 teaspoon white pepper
-<!---->
+<!--  -->
 - 70 grams cheese (cut into 6 bars)
-<!---->
+<!--  -->
 - 1/4 cup sake
 - 1 tablespoon soy sauce
 - 1 tablespoon honey
 - 1 tablespoon tomato paste
-<!---->
+<!--  -->
 - 2 teaspoons vegetable oil
 
 ##  *Directions*

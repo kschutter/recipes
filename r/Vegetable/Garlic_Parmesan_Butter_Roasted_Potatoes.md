@@ -4,19 +4,18 @@
 ######  Time: 1 hour
 
 ##  *Ingredients*
-
 - 7 to 8 medium-sized potatoes, thoroughly washed
 - 4 tablespoons melted butter
-<!---->
+<!--  -->
 - 1 cup parmesan
 - 1/2 teaspoon fresh cracked black pepper
-- 1 tablespoon minced garlic (or garlic powder)
+- 1 tablespoon (minced) garlic (or garlic powder)
 - 1 tablespoon paprika
 - 1 teaspoon salt
 - 1 teaspoon Italian seasoning
-<!---->
-- Garlic cloves
-- Fresh parsley, chopped for garnish
+<!--  -->
+- garlic cloves
+- fresh parsley, (chopped, for garnish)
 
 ##  *Directions*
 

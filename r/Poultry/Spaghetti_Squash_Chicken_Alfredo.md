@@ -1,17 +1,16 @@
 # Spaghetti Squash Chicken Alfredo
 
 ######  Yield: 6 servings
-######  Time: 1 hour
+######  Time:  1 hour
 
 ##  *Ingredients*
-- 1 medium spaghetti squash, halved lengthwise and seeds removed
-- 1 1/2 lbs chicken breast
+- 1 medium spaghetti squash (halved lengthwise and seeds removed)
+- 1 1/2 pounds chicken breast
 - 1 tablespoon lemon juice
-- Salt
-- 1/2 cup fresh basil, thinly sliced; plus more for garnish
+- 1/2 cup fresh basil (thinly sliced; plus more for garnish)
 
 ##  *Directions*
-1. Preheat oven to 400℉.
+1. Preheat oven to 400F.
 
 2. Line two baking sheet with aluminum foil. On one sheet, place halved squash cut side down. Place chicken on the other sheet and sprinkle with salt and pepper, then dice.
 

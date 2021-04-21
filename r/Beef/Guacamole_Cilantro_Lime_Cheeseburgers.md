@@ -1,7 +1,7 @@
 # Guacamole Cilantro Lime Cheeseburgers
 
 ######  Yield: 6 burgers
-######  Time: 40 minutes
+######  Time:  40 minutes
 
 ##  *Ingredients*
 ### Guacamole
@@ -12,6 +12,7 @@
 - 1/4 cup minced onion
 - 1 1/2 teaspoons minced garlic
 - 1/4 teaspoon salt to taste
+
 ### Burger
 - 2 pounds lean ground beef
 - 1/2 lime, juiced
@@ -19,6 +20,7 @@
 - 1 teaspoon chili powder
 - 1/2 cup diced onion
 - 1/2 cup chopped cilantro
+<!--  -->
 - 6 slices Monterey Jack cheese
 - 6 hamburger buns
 

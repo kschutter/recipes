@@ -1,21 +1,21 @@
 # Pumpkin Swirl Chocolate Brownies
 
 ######  Yield: 16 brownies
-######  Time: 1 hour 20 minutes
+######  Time:  1 hour 20 minutes
 
 ##  *Ingredients*
-- 3 oz. cream cheese, softened
+- 3 ounces cream cheese (softened)
 - 1/2 cup canned pumpkin puree (not pumpkin pie filling)
 - 1 large egg
 - 3 tablespoons sugar
 - 1 teaspoon ground cinnamon
 - 1/4 teaspoon ground nutmeg
-<!---->
-- 1 (18 oz.) box brownie mix
+<!--  -->
+- 1 (18 ounce) box brownie mix
 - Oil, water and eggs as called for on box
 
 ##  *Directions*
-1. Heat oven to 350 degrees F. Line a 9-inch square pan with parchment paper and spray with nonstick cooking spray.
+1. Heat oven to 350F. Line a 9x9 square pan with parchment paper and spray with nonstick cooking spray.
 
 2. In a medium bowl, beat all filling ingredients with an electric mixer on low speed until smooth. Set aside.
 

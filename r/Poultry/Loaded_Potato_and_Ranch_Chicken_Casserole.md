@@ -1,25 +1,22 @@
 # Loaded Potato & Ranch Chicken Casserole
 
 ######  Yield: 6 servings
-######  Time: 1 hour
+######  Time:  1 hour
 
 ##  *Ingredients*
-- 1 1/2 lbs ukon gold potatoes
-- 2 lbs boneless, skinless chicken breasts cut into 1-inch cubes
-salt & pepper to taste
-- 1/2 cup prepared ranch dressing divided use
-<!---->
+- 1 1/2 pounds ukon gold potatoes (diced into 1 inch cubes)
+- 2 pounds boneless, skinless chicken breasts (cut into 1-inch cubes)
+- 1/2 cup prepared ranch dressing (divided)
+<!--  -->
 - 2 cups Mexican Cheese Blend
-- 1 cup cooked & crumbled bacon
-- 1/2 cup diced green onion
+- 1 cup (cooked & crumbled) bacon
+- 1/2 cup green onion (diced)
 ##  *Directions*
-1. Preheat oven to 425F
+1. Preheat oven to 425F.
 
-1. Spray a 9 x 13 baking dish with nonstick cooking spray.
+2. Spray a 9x13 baking dish with nonstick cooking spray.
 
-2. Dice your Little Potatoes into 1-inch cubes.
-
-3. In a large bowl mix together the diced potatoes, salt & pepper and 1/4 cup ranch dressing.
+3. In a large bowl mix together the potatoes, salt & pepper and 1/4 cup ranch dressing.
 
 4. Scoop the potatoes into prepared baking dish (save that bowl, we're going to use it again for the chicken.)
 
@@ -31,7 +28,7 @@ salt & pepper to taste
 
 8. Top the cooked potatoes with the raw marinated chicken.
 
-9. Cover the baking dish with aluminum foil (Warning: Baking dish will be VERY hot so use oven mitts to do this.)
+9. Cover the baking dish with aluminum foil.
 
 10. Place baking dish back in the oven and cook for an additional 20 minutes (or until chicken is fully cooked.)
 

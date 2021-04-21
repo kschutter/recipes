@@ -1,26 +1,24 @@
 # Shepherds Pie
 
 ######  Yield: 4 servings
-######  Time: 1 hour 5 minutes
+######  Time:  1 hour 5 minutes
 
 ##  *Ingredients*
-
-- 2 lbs potatoes, peeled and quartered
+- 2 pounds potatoes, peeled and quartered
 - 8 tablespoons butter (1 stick)
-<!---->
+<!--  -->
 - 1 medium onion, chopped
 - 1-2 cups vegetables - diced carrots, onions, peas
 - 1 1/2 lbs ground beef
-<!---->
+<!--  -->
 - 1/2 cup beef broth
 - 1 teaspoon worcestershire sauce
 - salt, pepper, other seasonings of choice 
 
 ##  *Directions*
-
 1. Place the potatoes in medium pot, cover with at least an inch of cold water.
 Add a teaspoon of salt, bring to a boil, reduce to a simmer, and cook until tender 
-(about 20 minutes)
+(about 20 minutes).
 
 2. Melt 4 tablespoons of the butter in a large saute pan on medium heat. 
 Add the chopped onions and cook until tender, about 6 to 10 minutes.
@@ -31,7 +29,7 @@ Carrots should be cooked with the onions, because they take the same time to coo
 or after the meat starts to cook, as they take very little time.
 
 3. Add ground beef to the pan with the vegetables. Cook until no longer pink. 
-Season with salt and pepper
+Season with salt and pepper.
 
 4. Add the Worcestershire sauce and beef broth, bring the broth to a simmer and reduce heat to low. 
 Cook uncovered for 10 minutes, adding more beef broth if necessary to keep the meat from drying out.
@@ -49,7 +47,6 @@ of the potatoes with a fork so there are peaks that get well browned.
 If necessary, broil for the last few minutes to help brown.
 
 ##  *Suggested variations*
-
 - Put a layer of creamed corn between the ground beef and the mashed potatoes.
 
 - Sprinkle grated cheddar cheese over the top of the potatoes before baking.

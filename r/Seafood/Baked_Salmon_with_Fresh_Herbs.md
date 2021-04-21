@@ -1,10 +1,9 @@
 # Baked Salmon with Fresh Herbs
 
 ######  Yield: 2-3 servings
-######  Time: 1 hr 20 minutes
+######  Time:  1 hr 20 minutes
 
 ##  *Ingredients*
-
  - 1 1/2 pounds salmon
  <!---->
  - 1/4 cup lemon juice

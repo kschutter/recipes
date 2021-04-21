@@ -9,6 +9,7 @@
 1 orange, thinly sliced crosswise
 1-inch piece fresh ginger, thinly sliced
 2 cinnamon sticks
+<!--  -->
 2 cups dark rum
 
 ##  *Directions*

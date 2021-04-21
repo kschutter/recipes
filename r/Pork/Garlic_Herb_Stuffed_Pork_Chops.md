@@ -1,25 +1,22 @@
 # Garlic Herb-stuffed Pork Chops
 
 ######  Yield: 4 pork chops
-######  Time: 25 minutes
+######  Time:  25 minutes
 
 ##  *Ingredients*
-
-- 8 oz cream cheese, softened
-- 1/2 teaspoon black pepper, freshly ground
+- 8 ounces cream cheese (softened)
+- 1/2 teaspoon black pepper (freshly ground)
 - 1/2 tablespoon garlic powder
-- 1/4 cup  fresh chives, chopped
-- 1/2 cup  shredded provolone cheese
-- 2 strips bacon, cooked and crumbled
-<!---->
+- 1/4 cup fresh chives (chopped)
+- 1/2 cup shredded provolone cheese
+- 2 strips bacon (cooked and crumbled)
+<!--  -->
 - 4 boneless pork chops
-- salt to taste
-- pepper to taste
-<!---->
+<!--  -->
 - 1 cup flour
-- 2 eggs, beaten
-- 1 cups panko breadcrumbs
-<!---->
+- 2 eggs (beaten)
+- 1 cups breadcrumbs
+<!--  -->
 - 2 tablespoons canola oil
 
 ##  *Directions*

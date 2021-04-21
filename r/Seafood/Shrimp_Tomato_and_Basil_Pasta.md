@@ -1,18 +1,17 @@
 # Shrimp, Tomato, and Basil Pasta
 
 ######  Yield: 4 servings
-######  Time: 30 minutes
+######  Time:  30 minutes
 
 ##  *Ingredients*
 - 1 1/2 pounds medium shrimp peeled and deveined (tails removed)
-- Coarse salt and ground pepper
 - 6 teaspoons olive oil
-<!---->
-- 2 garlic cloves minced
-- 1 can (14.5 ounces) diced tomatoes in juice
-- 1 pint cherry or grape tomatoes halved
-<!---->
-- 1/2 lb. linguine
+<!--  -->
+- 2 garlic cloves (minced)
+- 1 (14.5 ounces) can diced tomatoes in juice
+- 1 pint cherry or grape tomatoes (halved)
+<!--  -->
+- 1/2 pound linguine
 - 1 1/2 cups lightly packed fresh basil leaves torn into small pieces, plus extra leaves for garnish (optional)
 
 ##  *Directions*

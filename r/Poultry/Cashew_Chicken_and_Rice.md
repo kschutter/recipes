@@ -1,17 +1,17 @@
 # Cashew Chicken & Rice
 
 ######  Yield: 8 servings
-######  Time: 20 minutes
+######  Time:  20 minutes
 
 ##  *Ingredients*
 - 4 tablespoons olive oil
 - 2 pounds chicken tenders (cut into cubes)
 - 3 tablespoons cornstarch
-<!---->
-- 2 Red Bell Peppers (cut into strips)
-- 1 Green Bell Pepper (cut into strips)
-- 1 Onion (cut into thick cubes)
-<!---->
+<!--  -->
+- 2 red Bell Peppers (cut into strips)
+- 1 green Bell Pepper (cut into strips)
+- 1 medium onion (cut into thick cubes)
+<!--  -->
 - 1/2 cup soy sauce
 - 2 tablespoons white vinegar
 - 1 teaspoon garlic
@@ -19,10 +19,11 @@
 - 1/3 cup honey
 - 1/4 teaspoon Red Pepper Flakes
 - 1/2 teaspoon salt
-<!---->
+<!--  -->
 - 1 cup cashews (roasted and salted)
-- 1/2 cup Green Onion
-- Rice
+- 1/2 cup green Onion
+- rice
+
 ##  *Directions*
 1. Heat 2 tablespoons of the olive oil in a large saute pan over medium/high heat. Place the chicken and cornstarch in a bowl and toss until chicken is coated. Add the chicken to the hot pan of oil and saute until the chicken is golden on all sides, stirring every 20 seconds or so.
 

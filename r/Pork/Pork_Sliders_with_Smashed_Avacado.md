@@ -1,22 +1,23 @@
 # Pork Sliders with Smashed Avocados
 
 ######  Yield: 8 sliders
-######  Time: 30 minutes
+######  Time:  30 minutes
 
 ##  *Ingredients*
 - 8 slider buns
-<!---->
+<!--  -->
 - 12 ounces extra-lean ground pork
-- 1 1/2 tablespoons chopped parsley
+- 1 1/2 tablespoons parsley (chopped)
 - 1/2 teaspoon garlic powder
-<!---->
+<!--  -->
 - 2 ounces shredded Monterey Jack cheese
-<!---->
+<!--  -->
 - 2 teaspoons fresh lemon juice
-- 1/2 ripe peeled avocado
-<!---->
-- 2 small ripe tomatoes, sliced
+- 1/2 ripe avocado
+<!--  -->
+- 2 small ripe tomatoes (sliced)
 - 8 small lettuce leaves
+
 ##  *Directions*
 1. Heat a grill pan over medium-high heat. Lightly coat cut sides of buns with cooking spray. Place buns, cut sides down, in pan; cook 1 minute or until lightly toasted.
 

@@ -1,7 +1,7 @@
 # Taco Lime Grilled Chicken
 
 ######  Yield: 4 servings
-######  Time: 15 minutes
+######  Time:  15 minutes
 
 ##  *Ingredients*
 - 2 tablespoons taco seasoning

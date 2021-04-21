@@ -1,13 +1,12 @@
 # Easy Crispy Baked Chicken Thighs
 
 ######  Yield: 6 servings
-######  Time: 45 minutes
+######  Time:  45 minutes
 
 ##  *Ingredients*
-
-- 3 lbs chicken thighs
+- 3 pounds chicken thighs
 - 2 tablespoons olive oil
-<!---->
+<!--  -->
 - 3 teaspoons dried Italian seasoning
 - 2 teaspoons paprika
 - 2 teaspoons garlic powder
@@ -16,8 +15,7 @@
 - 1/2 teaspoon pepper
 
 ##  *Directions*
-
-1. Preheat oven to 400 degrees F. Line a rimmed baking sheet with foil or parchment paper.
+1. Preheat oven to 400F. Line a rimmed baking sheet with foil or parchment paper.
 
 2. In a small bowl, whisk together the rub ingredients until well combined.
 

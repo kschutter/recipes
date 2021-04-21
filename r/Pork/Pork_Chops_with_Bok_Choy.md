@@ -1,7 +1,7 @@
 # Pork Chops with Bok Choy
 
 ######  Yield: 4 servings
-######  Time: 25 minutes
+######  Time:  25 minutes
 
 ##  *Ingredients*
 - 1 package (6 to 8 ounces) rice noodles
@@ -14,10 +14,10 @@
 - 2 tablespoons vegetable oil
 - 4 boneless center-cut pork chops (about 6 ounces each)
 <!---->
-- 1 large bok choy (about 2 pounds), trimmed, cut crosswise into 1-inch strips, and washed (with some water still clinging to leaves)
-- 4 scallions thinly sliced, white and green parts separated
-- 4 cloves garlic sliced
-- 1 piece (about 2 inches) fresh ginger peeled and minced
+- 1 large bok choy (about 2 pounds) (trimmed, cut crosswise into 1-inch strips, and washed (with some water still clinging to leaves))
+- 4 scallions (thinly sliced, white and green parts separated)
+- 4 cloves garlic (sliced)
+- 1 (2 inch) piece fresh ginger (peeled and minced)
 
 ##  *Directions*
 1. In a large bowl of hot tap water, soak noodles until soft, 10 to 15 minutes; drain and set aside. Meanwhile, make sauce: In a small bowl, whisk together soy sauce, vinegar, sugar, sesame oil, and red-pepper flakes; set aside.

@@ -1,19 +1,18 @@
 # Korean Beef Rice Bowls
 
 ######  Yield: 4 servings
-######  Time: 30 minutes
+######  Time:  30 minutes
 
 ##  *Ingredients*
-
 - 1 tablespoons vegetable oil
 - 1/2 yellow onion chopped
 - 2 teaspoons minced garlic
-<!---->
+<!--  -->
 - 1 lb ground beef (lean)
-<!---->
+<!--  -->
 - 2 cups broccoli (small florets)
 - 1 can water chestnuts
-<!---->
+<!--  -->
 - 1/4 cup soy sauce
 - 1/4 cup packed light brown sugar
 - 2 teaspoons sesame oil
@@ -22,7 +21,6 @@
 - 1/4 teaspoon ground ginger
 
 ##  *Directions*
-
 1. Start the rice. In a measuring cup, whisk together soy sauce, sugar, oil, pepper flakes, pepper and ginger.
 
 2. Heat up oil in a large skillet. Add chopped onion and minced garlic and saute until onion becomes translucent.

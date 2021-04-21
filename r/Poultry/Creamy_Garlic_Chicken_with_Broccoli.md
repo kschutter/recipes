@@ -1,22 +1,21 @@
 # Creamy Garlic Chicken with Broccoli
 
 ######  Yield: 6 servings
-######  Time: 30 minutes
+######  Time:  30 minutes
 
 ##  *Ingredients*
 - 2 pounds boneless chicken breasts
-- kosher salt or sea salt , to taste
-- fresh cracked black pepper , to taste
 - 1/2 teaspoon paprika
-<!---->
-- 4 tablespoons butter, divided
-- 4-5 cloves garlic , minced
-- 10.5 ounces (1 can) Condensed Cream of Chicken Soup
+<!--  -->
+- 4 tablespoons butter (divided)
+- 4-5 cloves garlic (minced)
+- 10.5 ounces (1 can) condensed cream of chicken soup
 - 3/4 cup water
-<!---->
-- 2 to 3 cups chopped broccoli
-- 1 teaspoon chopped fresh parsley
+<!--  -->
+- 2-3 cups chopped broccoli
+- 1 teaspoon fresh parsley (chopped)
 - lemon wedges, optional
+
 ##  *Directions*
 1. Season chicken with salt, pepper and paprika. Set aside.
 

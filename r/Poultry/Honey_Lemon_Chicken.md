@@ -1,24 +1,22 @@
 # Honey Lemon Chicken
 
 ######  Yield: 4 servings
-######  Time: 25 minutes
+######  Time:  25 minutes
 
 ##  *Ingredients*
-- 1 1/2 pounds boneless skinless chicken breasts, cut into bite-sized pieces (2 large chicken breasts)
+- 1 1/2 pounds boneless skinless chicken breasts (cut into bite-sized pieces)
 - 3 tablespoons soy sauce
 - 2 tablespoons rice wine vinegar
-<!---->
+<!--  -->
 - 3/4 cup low sodium chicken broth
-- Juice and zest from 1 large lemon
+- juice and zest from 1 large lemon
 - 1/4 cup honey or more/less to taste
 - 2 tablespoons cornstarch
 - 1/4 teaspoon ground ginger
 - 1/2 teaspoon red pepper flakes
 - 1 garlic clove
-<!---->
-- salt and pepper
-- Olive oil
-- 12 ounces green beans trimmed and cut into bite sized pieces (about 2 cups)
+<!--  -->
+- 12 ounces (about 2 cups) green beans (trimmed and cut into bite sized pieces) 
 
 ##  *Directions*
 1. Combine the chicken, soy sauce and rice wine vinegar in a large zip-top bag, and toss until the chicken is evenly coated. Refrigerate for at least 30 minutes, or up to 8 hours. (If no time to marinate, just toss the chicken, soy sauce and vinegar in a small bowl and let sit while you prep the rest of the recipe).

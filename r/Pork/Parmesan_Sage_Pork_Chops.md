@@ -1,26 +1,25 @@
 # Parmesan Sage Pork Chops
 
 ######  Yield: 4 pork chops
-######  Time: 50 minutes
+######  Time:  50 minutes
 
 ##  *Ingredients*
 - 4 tablespoons butter
 - 2 tablespoons olive oil
 <!-- -->
 - 1/2 cup flour
-- salt
-- pepper
 <!-- -->
-- 2 large eggs, whisked
+- 2 large eggs (whisked)
 <!-- -->
-- 1 cup breadcrumbs, crushed fine
+- 1 cup breadcrumbs (crushed fine)
 - 3/4 cup grated parmesan cheese
 - 1 tablespoon dried rubbed sage
-- 1 lemon rind, minced
+- 1 lemon rind (minced)
 <!-- -->
 - 4 pork chops, about 1 inch thick (bone in or out)
+
 ##  *Directions*
-1. Preheat oven to 425 degrees F.
+1. Preheat oven to 425F.
 
 2. Melt butter and olive oil in an oven-proof skillet.
 
@@ -34,5 +33,4 @@ aside.
 
 6. Brown chops in butter and oil until golden.
 
-7. Transfer skillet to oven and bake until meat thermometer says 150
-degrees F, about 15 minutes.
+7. Transfer skillet to oven and bake until meat thermometer says 150F, about 15 minutes.

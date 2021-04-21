@@ -1,7 +1,7 @@
 #   Pesto Baked Chicken
 
-######  Yield:  4-6 servings
-######  Time:   1 hour
+######  Yield: 4-6 servings
+######  Time:  1 hour
 
 ##  *Ingredients*
 - Pesto

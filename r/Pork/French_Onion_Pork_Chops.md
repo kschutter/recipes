@@ -1,27 +1,25 @@
 # French Onion Pork Chops
 
 ######  Yield: 4 servings
-######  Time: 50 minutes
+######  Time:  50 minutes
 
 ##  *Ingredients*
-
 - 4 boneless pork chops
 - 3 tablespoons Dijon mustard
-- 2 tablespoon olive oil, divided
-<!---->
+- 2 tablespoon olive oil (divided)
+<!--  -->
 - 1 tablespoon butter
-- 4-5 large sweet onions, sliced
+- 4-5 large sweet onions (sliced)
 - 1 teaspoon salt, plus additional to season the chops
 - 1/2 teaspoon pepper, plus additional to season the chops
-<!---->
+<!--  -->
 - 1/4 cup dry red or white wine
 - 7 - 8 sprigs fresh thyme plus additional for garnish
 - 1/2 cup beef or chicken stock
-<!---->
+<!--  -->
 - 4 ounces shredded Swiss or Gruyere cheese
 
 ##  *Directions*
-
 1. Brush the Dijon mustard evenly on both sides of the pork chops.
 
 2. Season each chop, on both sides, with salt and pepper.

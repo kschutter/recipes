@@ -1,21 +1,21 @@
 # Baked Honey Mustard Chicken
 
 ######  Yield: 2 servings
-######  Time: 1 hour
+######  Time:  1 hour
 
 ##  *Ingredients*
-* 1/2 tbsp oil (or butter)
-* 2 chicken breasts
-* Salt and pepper to taste
-* 1/4 tsp paprika
-<!---->
-* 1 tbsp wholegrain mustard
-* 1 tbsp honey
-* 1 tbsp dijon mustard
-<!---->
-* Juice from 1/2 lemon
+- 1/2 tablespoon oil (or butter)
+- 2 chicken breasts
+- 1/4 teaspoon paprika
+<!--  -->
+- 1 tablespoon wholegrain mustard
+- 1 tablespoon honey
+- 1 tablespoon dijon mustard
+<!--  -->
+- Juice from 1/2 lemon
+
 ##  *Directions*
-1. Preheat the oven to 400 degrees.
+1. Preheat the oven to 400F.
 
 2. Grease an oven-proof dish with the oil or butter and place the chicken in there.
 
