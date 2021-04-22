@@ -6,6 +6,7 @@ readme = """# kschutter Culinary Recipes
 - [Pork :pig2:](#pork)
 - [Poultry :chicken:](#poultry)
 - [Seafood :fish:](#seafood)
+- [Sides :bread:](#sides)
 - [Treats :cake:](#treats)
 - [Vegetable :herb:](#vegetable)
 """

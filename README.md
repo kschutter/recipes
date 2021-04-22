@@ -4,6 +4,7 @@
 - [Pork :pig2:](#pork)
 - [Poultry :chicken:](#poultry)
 - [Seafood :fish:](#seafood)
+- [Sides :bread:](#sides)
 - [Treats :cake:](#treats)
 - [Vegetable :herb:](#vegetable)
 
@@ -91,6 +92,8 @@
 - [Sesame Orange Shrimp](r/Seafood/Sesame_Orange_Shrimp.md)
 - [Shrimp Tomato and Basil Pasta](r/Seafood/Shrimp_Tomato_and_Basil_Pasta.md)
 - [Spicy Shrimp Tacos](r/Seafood/Spicy_Shrimp_Tacos.md)
+## Sides
+- [Garlic Bread](r/Sides/Garlic_Bread.md)
 ## Treats
 - [Choco Cherry Double Delights](r/Treats/Choco_Cherry_Double_Delights.md)
 - [Creamy Rice Pudding](r/Treats/Creamy_Rice_Pudding.md)
