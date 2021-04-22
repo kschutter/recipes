@@ -5,6 +5,7 @@
 
 ##  *Ingredients*
 - 1 loaf french bread
+<!--  -->
 - 1/2 cup salted butter (softened)
 - 3 tablespoons olive oil
 - 4 cloves garlic (minced)
