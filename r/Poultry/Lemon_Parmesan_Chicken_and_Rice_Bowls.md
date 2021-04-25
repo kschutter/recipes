@@ -15,8 +15,8 @@
 <!--  -->
 - 1 large onion (diced)
 <!--  -->
-1 lemon (zested and juiced)
-1/2 cup grated Parmesan cheese
+- 1 lemon (zested and juiced)
+- 1/2 cup grated Parmesan cheese
 
 ##  *Directions*
 1. Preheat oven to 400F.
