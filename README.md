@@ -73,6 +73,7 @@
 - [Honey Lime Chicken](r/Poultry/Honey_Lime_Chicken.md)
 - [Hot Chicken Sliders](r/Poultry/Hot_Chicken_Sliders.md)
 - [Lemon Garlic Chicken and Veggies](r/Poultry/Lemon_Garlic_Chicken_and_Veggies.md)
+- [Lemon Parmesan Chicken and Rice Bowls](r/Poultry/Lemon_Parmesan_Chicken_and_Rice_Bowls.md)
 - [Loaded Potato and Ranch Chicken Casserole](r/Poultry/Loaded_Potato_and_Ranch_Chicken_Casserole.md)
 - [Perfect Chicken Tacos](r/Poultry/Perfect_Chicken_Tacos.md)
 - [Pesto Baked Chicken](r/Poultry/Pesto_Baked_Chicken.md)
