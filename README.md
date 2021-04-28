@@ -109,4 +109,5 @@
 - [Garlic Parmesan Butter Roasted Potatoes](r/Vegetable/Garlic_Parmesan_Butter_Roasted_Potatoes.md)
 - [Lemon Parmesan Asparagus](r/Vegetable/Lemon_Parmesan_Asparagus.md)
 - [Potato Corn Chowder](r/Vegetable/Potato_Corn_Chowder.md)
+- [Sauteed Mushrooms with Garlic Butter](r/Vegetable/Sauteed_Mushrooms_with_Garlic_Butter.md)
 - [Tasty Baked Broccoli](r/Vegetable/Tasty_Baked_Broccoli.md)
