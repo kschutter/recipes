@@ -20,5 +20,5 @@
 2. Cook for four minutes on medium-high heat without stirring. Stir and cook for 2 more minutes without stirring.
 
 3. Reduce heat to medium-low and add butter and garlic. Cook for 3-4 more minutes, stirring frequently, until mushrooms are fully cooked, butter is melted, and garlic is fragrant.
-R
+
 4. Remove from heat, stir in parsley and serve immediately.
