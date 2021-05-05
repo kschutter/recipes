@@ -31,7 +31,7 @@
 
 3. Add the bell peppers and onion to the pan and saute for 4-5 minutes, or until onion is translucent and peppers have begun to soften. Add the chicken back in to the pan and mix in with the vegetables.
 
-4. In a mixing bowl, whisk together the coconut aminos, vinegar, garlic, ginger, honey, red pepper, and salt.
+4. In a mixing bowl, whisk together the soy sauce, vinegar, garlic, ginger, honey, red pepper, and salt.
 
 5. Pour the sauce into the pan and toss with the chicken and vegetables. Bring sauce to a boil and cook for 1-2 more minutes, stirring constantly, until sauce has thickened. Stir in the cashews and 3/4 of the green onions.
 
