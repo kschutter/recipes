@@ -34,6 +34,7 @@
 - [Pork Schnitzel](r/Pork/Pork_Schnitzel.md)
 - [Pork Sliders with Smashed Avacado](r/Pork/Pork_Sliders_with_Smashed_Avacado.md)
 - [Toad in the Hole](r/Pork/Toad_in_the_Hole.md)
+- [Vietnamese Caramelised Pork Bowls](r/Pork/Vietnamese_Caramelised_Pork_Bowls.md)
 ## Poultry
 - [Baked Honey Mustard Chicken](r/Poultry/Baked_Honey_Mustard_Chicken.md)
 - [Baked Paprika Chicken](r/Poultry/Baked_Paprika_Chicken.md)
