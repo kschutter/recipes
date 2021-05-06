@@ -27,6 +27,6 @@
 
 4. Add the pork mince and cook for 2 minutes or so until white all over, breaking up the meat with a wooden spoon.
 
-5. Add the sugar and fish sauce. Stir, then leave it to cook without touching until all the juices cook out and the pork starts caramelised - about 2 minutes. Then stir it and leave it again, without stirring, for around 30 seconds to get more caramelisation. Repeat twice more until caramelised to your taste.
+5. Add the sugar and fish sauce. Stir, then leave it to cook without touching until all the juices cook out and the pork starts caramelizing - about 2 minutes. Then stir it and leave it again, without stirring, for around 30 seconds to get more caramelisation. Repeat twice more until caramelised to your taste.
 
 6. Serve over rice, garnished with sliced scallions/shallots.
