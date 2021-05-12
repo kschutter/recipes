@@ -1,6 +1,7 @@
 # kschutter Culinary Recipes
 - [Beef :cow2:](#beef)
 - [Beverage :tropical_drink:](#beverage)
+- [Breakfast :egg:](#breakfast)
 - [Pork :pig2:](#pork)
 - [Poultry :chicken:](#poultry)
 - [Seafood :fish:](#seafood)
@@ -22,6 +23,8 @@
 - [Tacos](r/Beef/Tacos.md)
 ## Beverage
 - [Hot Apple Cider Rum Punch](r/Beverage/Hot_Apple_Cider_Rum_Punch.md)
+## Breakfast
+- [Better Bisquick Waffles](r/Breakfast/Better_Bisquick_Waffles.md)
 ## Pork
 - [Cajun Chicken and Sausage Alfredo Pasta](r/Pork/Cajun_Chicken_and_Sausage_Alfredo_Pasta.md)
 - [Creamy Pork Chops](r/Pork/Creamy_Pork_Chops.md)
