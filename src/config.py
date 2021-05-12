@@ -3,6 +3,7 @@ import os
 readme = """# kschutter Culinary Recipes
 - [Beef :cow2:](#beef)
 - [Beverage :tropical_drink:](#beverage)
+- [Breakfast :egg:](#breakfast)
 - [Pork :pig2:](#pork)
 - [Poultry :chicken:](#poultry)
 - [Seafood :fish:](#seafood)
