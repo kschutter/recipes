@@ -10,6 +10,7 @@ readme = """# kschutter Culinary Recipes
 - [Sides :bread:](#sides)
 - [Treats :cake:](#treats)
 - [Vegetable :herb:](#vegetable)
+- [Slow Cooker :sweat_drops:](#Slow/Pressure Cooker recipes:)
 """
 slow_cooker = [{"title": "Chili Mac (:cow2:)", "link": "r/beef/Chili_Mac.md"}]
 
