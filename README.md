@@ -8,7 +8,7 @@
 - [Sides :bread:](#sides)
 - [Treats :cake:](#treats)
 - [Vegetable :herb:](#vegetable)
-- [Slow Cooker :sweat_drops:](#slow)
+- [Slow Cooker :sweat_drops:](#slowpressure-cooker-recipes)
 
 ## Beef
 - [Chili Mac](r/Beef/Chili_Mac.md)
@@ -118,5 +118,4 @@
 - [Sauteed Mushrooms with Garlic Butter](r/Vegetable/Sauteed_Mushrooms_with_Garlic_Butter.md)
 - [Tasty Baked Broccoli](r/Vegetable/Tasty_Baked_Broccoli.md)
 ## Slow/Pressure Cooker recipes:
-<a name='slow'/>
-- [Chili Mac (:cow2:)](r/beef/Chili_Mac.md)
+- [Chili Mac (:cow2:)](r/Beef/Chili_Mac.md)
