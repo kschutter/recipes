@@ -10,6 +10,7 @@
 - [Vegetable :herb:](#vegetable)
 
 ## Beef
+- [Chili Mac](r/Beef/Chili_Mac.md)
 - [French Onion Beef Casserole](r/Beef/French_Onion_Beef_Casserole.md)
 - [Garlic Butter Brazilian Steak](r/Beef/Garlic_Butter_Brazilian_Steak.md)
 - [Guacamole Cilantro Lime Cheeseburgers](r/Beef/Guacamole_Cilantro_Lime_Cheeseburgers.md)
@@ -115,3 +116,5 @@
 - [Potato Corn Chowder](r/Vegetable/Potato_Corn_Chowder.md)
 - [Sauteed Mushrooms with Garlic Butter](r/Vegetable/Sauteed_Mushrooms_with_Garlic_Butter.md)
 - [Tasty Baked Broccoli](r/Vegetable/Tasty_Baked_Broccoli.md)
+## Slow/Pressure Cooker recipes:
+- [Chili Mac (:cow2:)](r/beef/Chili_Mac.md)
