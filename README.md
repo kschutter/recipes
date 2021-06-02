@@ -8,7 +8,7 @@
 - [Sides :bread:](#sides)
 - [Treats :cake:](#treats)
 - [Vegetable :herb:](#vegetable)
-- [Slow Cooker :sweat_drops:](#Slow/Pressure Cooker recipes:)
+- [Slow Cooker :sweat_drops:](#Slow/Pressure)
 
 ## Beef
 - [Chili Mac](r/Beef/Chili_Mac.md)
