@@ -11,7 +11,6 @@
 - [Slow Cooker :sweat_drops:](#slowpressure-cooker-recipes)
 
 ## Beef
-- [Chili Mac](r/Beef/Chili_Mac.md)
 - [French Onion Beef Casserole](r/Beef/French_Onion_Beef_Casserole.md)
 - [Garlic Butter Brazilian Steak](r/Beef/Garlic_Butter_Brazilian_Steak.md)
 - [Guacamole Cilantro Lime Cheeseburgers](r/Beef/Guacamole_Cilantro_Lime_Cheeseburgers.md)
@@ -21,6 +20,8 @@
 - [Meatloaf](r/Beef/Meatloaf.md)
 - [Mexi Ground Beef Chili Macaroni Casserole](r/Beef/Mexi_Ground_Beef_Chili_Macaroni_Casserole.md)
 - [Shepherds Pie](r/Beef/Shepherds_Pie.md)
+- [Slow-Cooker Beef Stroganoff](r/Beef/Slow-Cooker_Beef_Stroganoff.md)
+- [Slow-Cooker Chili Mac](r/Beef/Slow-Cooker_Chili_Mac.md)
 - [Taco Sloppy Joes](r/Beef/Taco_Sloppy_Joes.md)
 - [Tacos](r/Beef/Tacos.md)
 ## Beverage
@@ -118,4 +119,5 @@
 - [Sauteed Mushrooms with Garlic Butter](r/Vegetable/Sauteed_Mushrooms_with_Garlic_Butter.md)
 - [Tasty Baked Broccoli](r/Vegetable/Tasty_Baked_Broccoli.md)
 ## Slow/Pressure Cooker recipes:
-- [Chili Mac (:cow2:)](r/Beef/Chili_Mac.md)
+- [Slow-Cooker Beef Stroganoff (:cow2:)](r/Beef/Slow-Cooker_Beef_Stroganoff.md)
+- [Slow-Cooker Chili Mac (:cow2:)](r/Beef/Slow-Cooker_Chili_Mac.md)

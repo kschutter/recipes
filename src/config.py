@@ -12,14 +12,18 @@ readme = """# kschutter Culinary Recipes
 - [Vegetable :herb:](#vegetable)
 - [Slow Cooker :sweat_drops:](#slowpressure-cooker-recipes)
 """
-slow_cooker = [{"title": "Chili Mac (:cow2:)", "link": "r/Beef/Chili_Mac.md"}]
+emojis = {"Beef":":cow2:"}  # Slow cooker category emojis
+slow_cooker = []
 
 for category in sorted(os.listdir('r')):
     if category == 'template.md': continue
     readme += f'\n## {category}'
     for recipe_file in sorted(os.listdir('r/' + category)):
+        link = f"r/{category}/{recipe_file}"
         recipe_name = recipe_file[:-3].replace('_', ' ')
-        readme += f'\n- [{recipe_name}](r/{category}/{recipe_file})'
+        if (recipe_name[:11] == "Slow-Cooker"): 
+            slow_cooker.append({"title": f"{recipe_name} ({emojis[category]})", "link":link})
+        readme += f'\n- [{recipe_name}]({link})'
 readme += "\n## Slow/Pressure Cooker recipes:"
 for recipe in slow_cooker:
     readme += f"\n- [{recipe['title']}]({recipe['link']})"

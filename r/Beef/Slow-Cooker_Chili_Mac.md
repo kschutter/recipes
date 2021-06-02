@@ -1,4 +1,4 @@
-# Chili Mac
+# Slow-Cooker Chili Mac
 
 ######  Yield: 4 servings
 ######  Time:  6 hours
