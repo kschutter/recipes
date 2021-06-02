@@ -10,7 +10,7 @@ readme = """# kschutter Culinary Recipes
 - [Sides :bread:](#sides)
 - [Treats :cake:](#treats)
 - [Vegetable :herb:](#vegetable)
-- [Slow Cooker :sweat_drops:](#Slow/Pressure Cooker recipes:)
+- [Slow Cooker :sweat_drops:](#slow)
 """
 slow_cooker = [{"title": "Chili Mac (:cow2:)", "link": "r/beef/Chili_Mac.md"}]
 
@@ -22,7 +22,7 @@ for category in sorted(os.listdir('r')):
         readme += f'\n- [{recipe_name}](r/{category}/{recipe_file})'
 readme += "\n## Slow/Pressure Cooker recipes:"
 for recipe in slow_cooker:
-    readme += f"\n- [{recipe['title']}]({recipe['link']})"
+    readme += f"\n<a name='slow'/>\n- [{recipe['title']}]({recipe['link']})"
 
 with open('README.md', 'w') as f:
     f.write(readme)
