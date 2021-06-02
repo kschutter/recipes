@@ -119,5 +119,5 @@
 - [Sauteed Mushrooms with Garlic Butter](r/Vegetable/Sauteed_Mushrooms_with_Garlic_Butter.md)
 - [Tasty Baked Broccoli](r/Vegetable/Tasty_Baked_Broccoli.md)
 ## Slow/Pressure Cooker recipes:
-- [Slow-Cooker Beef Stroganoff (:cow2:)](r/Beef/Slow-Cooker_Beef_Stroganoff.md)
-- [Slow-Cooker Chili Mac (:cow2:)](r/Beef/Slow-Cooker_Chili_Mac.md)
+- [Beef Stroganoff (:cow2:)](r/Beef/Slow-Cooker_Beef_Stroganoff.md)
+- [Chili Mac (:cow2:)](r/Beef/Slow-Cooker_Chili_Mac.md)

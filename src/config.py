@@ -22,7 +22,7 @@ for category in sorted(os.listdir('r')):
         link = f"r/{category}/{recipe_file}"
         recipe_name = recipe_file[:-3].replace('_', ' ')
         if (recipe_name[:11] == "Slow-Cooker"): 
-            slow_cooker.append({"title": f"{recipe_name} ({emojis[category]})", "link":link})
+            slow_cooker.append({"title": f"{recipe_name[12:]} ({emojis[category]})", "link":link})
         readme += f'\n- [{recipe_name}]({link})'
 readme += "\n## Slow/Pressure Cooker recipes:"
 for recipe in slow_cooker:
