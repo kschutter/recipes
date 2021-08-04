@@ -85,6 +85,8 @@
 - [Perfect Chicken Tacos](r/Poultry/Perfect_Chicken_Tacos.md)
 - [Pesto Baked Chicken](r/Poultry/Pesto_Baked_Chicken.md)
 - [Simple Grilled Chicken](r/Poultry/Simple_Grilled_Chicken.md)
+- [Slow-Cooker Chicken Broccoli Alfredo](r/Poultry/Slow-Cooker_Chicken_Broccoli_Alfredo.md)
+- [Slow-Cooker Ginger Honey Chicken](r/Poultry/Slow-Cooker_Ginger_Honey_Chicken.md)
 - [Spaghetti Squash Chicken Alfredo](r/Poultry/Spaghetti_Squash_Chicken_Alfredo.md)
 - [Spicy Bolivian Chicken](r/Poultry/Spicy_Bolivian_Chicken.md)
 - [Spinach and Artichoke Chicken](r/Poultry/Spinach_and_Artichoke_Chicken.md)
@@ -121,3 +123,5 @@
 ## Slow/Pressure Cooker recipes:
 - [Beef Stroganoff (:cow2:)](r/Beef/Slow-Cooker_Beef_Stroganoff.md)
 - [Chili Mac (:cow2:)](r/Beef/Slow-Cooker_Chili_Mac.md)
+- [Chicken Broccoli Alfredo (:chicken:)](r/Poultry/Slow-Cooker_Chicken_Broccoli_Alfredo.md)
+- [Ginger Honey Chicken (:chicken:)](r/Poultry/Slow-Cooker_Ginger_Honey_Chicken.md)
