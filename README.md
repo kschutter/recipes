@@ -104,10 +104,12 @@
 - [Spicy Shrimp Tacos](r/Seafood/Spicy_Shrimp_Tacos.md)
 ## Sides
 - [Garlic Bread](r/Sides/Garlic_Bread.md)
+- [Grandmas Rolls](r/Sides/Grandmas_Rolls.md)
 ## Treats
 - [Choco Cherry Double Delights](r/Treats/Choco_Cherry_Double_Delights.md)
 - [Creamy Rice Pudding](r/Treats/Creamy_Rice_Pudding.md)
 - [Dark Chocolate Crackle Cookies](r/Treats/Dark_Chocolate_Crackle_Cookies.md)
+- [Frog-Eye Salad](r/Treats/Frog-Eye_Salad.md)
 - [Nutella Stuffed Cookie Pie](r/Treats/Nutella_Stuffed_Cookie_Pie.md)
 - [Peanut Butter Cookies](r/Treats/Peanut_Butter_Cookies.md)
 - [Pumpkin Cranberry Bread](r/Treats/Pumpkin_Cranberry_Bread.md)
