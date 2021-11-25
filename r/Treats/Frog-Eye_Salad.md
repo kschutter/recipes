@@ -20,4 +20,4 @@
 
 2. While the pasta is cooking, combine eggs, sugar, flour, pineapple juice. Stir and cook over medium heat until thickened - slowly. Remove from heat and add lemon juice, cool to room temperature.
 
-3. In a large bowl, combine the pasta, egg mixture, and fruit.
+3. In a large bowl, combine the pasta, egg mixture, fruit, and whipped cream.
