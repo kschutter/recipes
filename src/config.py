@@ -6,13 +6,14 @@ readme = """# kschutter Culinary Recipes
 - [Breakfast :egg:](#breakfast)
 - [Pork :pig2:](#pork)
 - [Poultry :chicken:](#poultry)
+- [Sauce :ramen:](#sauce)
 - [Seafood :fish:](#seafood)
 - [Sides :bread:](#sides)
 - [Treats :cake:](#treats)
 - [Vegetable :herb:](#vegetable)
 - [Slow Cooker :sweat_drops:](#slowpressure-cooker-recipes)
 """
-emojis = {"Beef": ":cow2:", "Poultry": ":chicken:"}  # Slow cooker category emojis
+emojis = {"Beef": ":cow2:", "Poultry": ":chicken:", "Pork": ":pig2:"}  # Slow cooker category emojis https://gist.github.com/rxaviers/7360908
 slow_cooker = []
 
 for category in sorted(os.listdir("r")):

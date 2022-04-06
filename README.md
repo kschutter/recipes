@@ -4,6 +4,7 @@
 - [Breakfast :egg:](#breakfast)
 - [Pork :pig2:](#pork)
 - [Poultry :chicken:](#poultry)
+- [Sauce :ramen:](#sauce)
 - [Seafood :fish:](#seafood)
 - [Sides :bread:](#sides)
 - [Treats :cake:](#treats)
@@ -29,6 +30,8 @@
 ## Breakfast
 - [Better Bisquick Waffles](r/Breakfast/Better_Bisquick_Waffles.md)
 ## Pork
+- [Baked Mostaccioli](r/Pork/Baked_Mostaccioli.md)
+- [Biscuits and Gravy](r/Pork/Biscuits_and_Gravy.md)
 - [Cajun Chicken and Sausage Alfredo Pasta](r/Pork/Cajun_Chicken_and_Sausage_Alfredo_Pasta.md)
 - [Creamy Pork Chops](r/Pork/Creamy_Pork_Chops.md)
 - [French Onion Pork Chops](r/Pork/French_Onion_Pork_Chops.md)
@@ -39,9 +42,11 @@
 - [Pork Chops with Bok Choy](r/Pork/Pork_Chops_with_Bok_Choy.md)
 - [Pork Schnitzel](r/Pork/Pork_Schnitzel.md)
 - [Pork Sliders with Smashed Avacado](r/Pork/Pork_Sliders_with_Smashed_Avacado.md)
+- [Slow-Cooker Baby Back Ribs](r/Pork/Slow-Cooker_Baby_Back_Ribs.md)
 - [Toad in the Hole](r/Pork/Toad_in_the_Hole.md)
 - [Vietnamese Caramelised Pork Bowls](r/Pork/Vietnamese_Caramelised_Pork_Bowls.md)
 ## Poultry
+- [Baked Chicken Legs](r/Poultry/Baked_Chicken_Legs.md)
 - [Baked Honey Mustard Chicken](r/Poultry/Baked_Honey_Mustard_Chicken.md)
 - [Baked Paprika Chicken](r/Poultry/Baked_Paprika_Chicken.md)
 - [Broccoli Chicken Casserole with Cream Cheese](r/Poultry/Broccoli_Chicken_Casserole_with_Cream_Cheese.md)
@@ -91,6 +96,8 @@
 - [Spicy Bolivian Chicken](r/Poultry/Spicy_Bolivian_Chicken.md)
 - [Spinach and Artichoke Chicken](r/Poultry/Spinach_and_Artichoke_Chicken.md)
 - [Taco Lime Grilled Chicken](r/Poultry/Taco_Lime_Grilled_Chicken.md)
+## Sauce
+- [Honey Garlic Butter](r/Sauce/Honey_Garlic_Butter.md)
 ## Seafood
 - [Baked Salmon with Fresh Herbs](r/Seafood/Baked_Salmon_with_Fresh_Herbs.md)
 - [Garlic Butter Baked Salmon](r/Seafood/Garlic_Butter_Baked_Salmon.md)
@@ -105,6 +112,7 @@
 ## Sides
 - [Garlic Bread](r/Sides/Garlic_Bread.md)
 - [Grandmas Rolls](r/Sides/Grandmas_Rolls.md)
+- [Toasted Ravioli](r/Sides/Toasted_Ravioli.md)
 ## Treats
 - [Choco Cherry Double Delights](r/Treats/Choco_Cherry_Double_Delights.md)
 - [Creamy Rice Pudding](r/Treats/Creamy_Rice_Pudding.md)
@@ -117,6 +125,7 @@
 ## Vegetable
 - [Beer Cheese Mashed Potatoes](r/Vegetable/Beer_Cheese_Mashed_Potatoes.md)
 - [Carrots with Ginger and Honey](r/Vegetable/Carrots_with_Ginger_and_Honey.md)
+- [Cavatappi Milano](r/Vegetable/Cavatappi_Milano.md)
 - [Garlic Parmesan Butter Roasted Potatoes](r/Vegetable/Garlic_Parmesan_Butter_Roasted_Potatoes.md)
 - [Lemon Parmesan Asparagus](r/Vegetable/Lemon_Parmesan_Asparagus.md)
 - [Potato Corn Chowder](r/Vegetable/Potato_Corn_Chowder.md)
@@ -125,5 +134,6 @@
 ## Slow/Pressure Cooker recipes:
 - [Beef Stroganoff (:cow2:)](r/Beef/Slow-Cooker_Beef_Stroganoff.md)
 - [Chili Mac (:cow2:)](r/Beef/Slow-Cooker_Chili_Mac.md)
+- [Baby Back Ribs (:pig2:)](r/Pork/Slow-Cooker_Baby_Back_Ribs.md)
 - [Chicken Broccoli Alfredo (:chicken:)](r/Poultry/Slow-Cooker_Chicken_Broccoli_Alfredo.md)
 - [Ginger Honey Chicken (:chicken:)](r/Poultry/Slow-Cooker_Ginger_Honey_Chicken.md)
