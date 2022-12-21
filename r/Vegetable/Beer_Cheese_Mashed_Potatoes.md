@@ -12,7 +12,7 @@
 - 2/3 cup beer, such as IPA
 - 2/3 cup milk
 <!--  -->
-- 1 cup shredded white Cheddar
+- 1 cup shredded white cheddar
 - 1/2 cup shredded yellow cheddar
 - 1/2 teaspoon garlic powder
 - 1/2 teaspoon smoked paprika
