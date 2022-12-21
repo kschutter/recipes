@@ -128,6 +128,7 @@
 - [Cavatappi Milano](r/Vegetable/Cavatappi_Milano.md)
 - [Classic Latkes](r/Vegetable/Classic_Latkes.md)
 - [Garlic Parmesan Butter Roasted Potatoes](r/Vegetable/Garlic_Parmesan_Butter_Roasted_Potatoes.md)
+- [Garlic Parmesan Green Beans](r/Vegetable/Garlic_Parmesan_Green_Beans.md)
 - [Lemon Parmesan Asparagus](r/Vegetable/Lemon_Parmesan_Asparagus.md)
 - [Potato Corn Chowder](r/Vegetable/Potato_Corn_Chowder.md)
 - [Sauteed Mushrooms with Garlic Butter](r/Vegetable/Sauteed_Mushrooms_with_Garlic_Butter.md)
