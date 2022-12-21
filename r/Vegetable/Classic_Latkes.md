@@ -6,10 +6,12 @@
 ##  *Ingredients*
 - 1 1/2 pounds baking potatoes (3 to 4 potatoes)
 - 1/2 medium yellow onion, peeled and quartered
+<!--  -->
 - 1 large egg
 - 2 tablespoons matzo meal or unseasoned dry breadcrumbs
 - 1 teaspoon kosher salt
 - 1/8 teaspoon freshly ground black pepper
+<!--  -->
 - 1 cup canola oil or chicken schmaltz, or a combination of both
 - Applesauce and sour cream, for serving
 
