@@ -126,6 +126,7 @@
 - [Beer Cheese Mashed Potatoes](r/Vegetable/Beer_Cheese_Mashed_Potatoes.md)
 - [Carrots with Ginger and Honey](r/Vegetable/Carrots_with_Ginger_and_Honey.md)
 - [Cavatappi Milano](r/Vegetable/Cavatappi_Milano.md)
+- [Classic Latkes](r/Vegetable/Classic_Latkes.md)
 - [Garlic Parmesan Butter Roasted Potatoes](r/Vegetable/Garlic_Parmesan_Butter_Roasted_Potatoes.md)
 - [Lemon Parmesan Asparagus](r/Vegetable/Lemon_Parmesan_Asparagus.md)
 - [Potato Corn Chowder](r/Vegetable/Potato_Corn_Chowder.md)
