@@ -12,6 +12,7 @@
     - [Slow Cooker :sweat_drops:](#slowpressure-cooker-recipes)
     
 ## Beef
+- [Cowboy Casserole](r/Beef/Cowboy_Casserole.md)
 - [French Onion Beef Casserole](r/Beef/French_Onion_Beef_Casserole.md)
 - [Garlic Butter Brazilian Steak](r/Beef/Garlic_Butter_Brazilian_Steak.md)
 - [Guacamole Cilantro Lime Cheeseburgers](r/Beef/Guacamole_Cilantro_Lime_Cheeseburgers.md)
@@ -92,6 +93,7 @@
 - [Simple Grilled Chicken](r/Poultry/Simple_Grilled_Chicken.md)
 - [Slow-Cooker Chicken Broccoli Alfredo](r/Poultry/Slow-Cooker_Chicken_Broccoli_Alfredo.md)
 - [Slow-Cooker Ginger Honey Chicken](r/Poultry/Slow-Cooker_Ginger_Honey_Chicken.md)
+- [Slow-Cooker Pesto Mozzerella Pasta](r/Poultry/Slow-Cooker_Pesto_Mozzerella_Pasta.md)
 - [Spaghetti Squash Chicken Alfredo](r/Poultry/Spaghetti_Squash_Chicken_Alfredo.md)
 - [Spicy Bolivian Chicken](r/Poultry/Spicy_Bolivian_Chicken.md)
 - [Spinach and Artichoke Chicken](r/Poultry/Spinach_and_Artichoke_Chicken.md)
@@ -114,6 +116,7 @@
 - [Grandmas Rolls](r/Sides/Grandmas_Rolls.md)
 - [Toasted Ravioli](r/Sides/Toasted_Ravioli.md)
 ## Treats
+- [Bread Pudding](r/Treats/Bread_Pudding.md)
 - [Choco Cherry Double Delights](r/Treats/Choco_Cherry_Double_Delights.md)
 - [Creamy Rice Pudding](r/Treats/Creamy_Rice_Pudding.md)
 - [Dark Chocolate Crackle Cookies](r/Treats/Dark_Chocolate_Crackle_Cookies.md)
@@ -130,6 +133,7 @@
 - [Garlic Parmesan Butter Roasted Potatoes](r/Vegetable/Garlic_Parmesan_Butter_Roasted_Potatoes.md)
 - [Garlic Parmesan Green Beans](r/Vegetable/Garlic_Parmesan_Green_Beans.md)
 - [Lemon Parmesan Asparagus](r/Vegetable/Lemon_Parmesan_Asparagus.md)
+- [Mediterranean Cauliflower Rice](r/Vegetable/Mediterranean_Cauliflower_Rice.md)
 - [Potato Corn Chowder](r/Vegetable/Potato_Corn_Chowder.md)
 - [Sauteed Mushrooms with Garlic Butter](r/Vegetable/Sauteed_Mushrooms_with_Garlic_Butter.md)
 - [Tasty Baked Broccoli](r/Vegetable/Tasty_Baked_Broccoli.md)
@@ -139,3 +143,4 @@
 - [Baby Back Ribs (:pig2:)](r/Pork/Slow-Cooker_Baby_Back_Ribs.md)
 - [Chicken Broccoli Alfredo (:chicken:)](r/Poultry/Slow-Cooker_Chicken_Broccoli_Alfredo.md)
 - [Ginger Honey Chicken (:chicken:)](r/Poultry/Slow-Cooker_Ginger_Honey_Chicken.md)
+- [Pesto Mozzerella Pasta (:chicken:)](r/Poultry/Slow-Cooker_Pesto_Mozzerella_Pasta.md)
