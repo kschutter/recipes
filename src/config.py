@@ -2,17 +2,17 @@ import os
 
 def get_recipes():
     readme = """# kschutter Culinary Recipes
-    - [Beef :cow2:](#beef)
-    - [Beverage :tropical_drink:](#beverage)
-    - [Breakfast :egg:](#breakfast)
-    - [Pork :pig2:](#pork)
-    - [Poultry :chicken:](#poultry)
-    - [Sauce :ramen:](#sauce)
-    - [Seafood :fish:](#seafood)
-    - [Sides :bread:](#sides)
-    - [Treats :cake:](#treats)
-    - [Vegetable :herb:](#vegetable)
-    - [Slow Cooker :sweat_drops:](#slowpressure-cooker-recipes)
+- [Beef :cow2:](#beef)
+- [Beverage :tropical_drink:](#beverage)
+- [Breakfast :egg:](#breakfast)
+- [Pork :pig2:](#pork)
+- [Poultry :chicken:](#poultry)
+- [Sauce :ramen:](#sauce)
+- [Seafood :fish:](#seafood)
+- [Sides :bread:](#sides)
+- [Treats :cake:](#treats)
+- [Vegetable :herb:](#vegetable)
+- [Slow Cooker :sweat_drops:](#slowpressure-cooker-recipes)
     """
     emojis = {"Beef": ":cow2:", "Poultry": ":chicken:", "Pork": ":pig2:"}  # Slow cooker category emojis https://gist.github.com/rxaviers/7360908
     slow_cooker = []
