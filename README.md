@@ -150,4 +150,4 @@
 - [Chicken Broccoli Alfredo (:chicken:)](r/Poultry/Slow-Cooker_Chicken_Broccoli_Alfredo.md)
 - [Ginger Honey Chicken (:chicken:)](r/Poultry/Slow-Cooker_Ginger_Honey_Chicken.md)
 - [Pesto Mozzerella Pasta (:chicken:)](r/Poultry/Slow-Cooker_Pesto_Mozzerella_Pasta.md)
-- [Potato Soup (:herb)](r/Vegetable/Slow-Cooker_Potato_Soup.md)
+- [Potato Soup (:herb:)](r/Vegetable/Slow-Cooker_Potato_Soup.md)
