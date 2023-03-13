@@ -14,7 +14,7 @@ def get_recipes():
 - [Vegetable :herb:](#vegetable)
 - [Slow Cooker :sweat_drops:](#slowpressure-cooker-recipes)
     """
-    emojis = {"Beef": ":cow2:", "Poultry": ":chicken:", "Pork": ":pig2:", "Vegetable": ":herb"}  # Slow cooker category emojis https://gist.github.com/rxaviers/7360908
+    emojis = {"Beef": ":cow2:", "Poultry": ":chicken:", "Pork": ":pig2:", "Vegetable": ":herb:"}  # Slow cooker category emojis https://gist.github.com/rxaviers/7360908
     slow_cooker = []
     recipes = []
     for category in sorted(os.listdir("r")):
