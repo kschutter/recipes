@@ -118,13 +118,18 @@
 ## Treats
 - [Bread Pudding](r/Treats/Bread_Pudding.md)
 - [Choco Cherry Double Delights](r/Treats/Choco_Cherry_Double_Delights.md)
+- [Chocolate Trifle](r/Treats/Chocolate_Trifle.md)
+- [Churro Apple Pie Bombs](r/Treats/Churro_Apple_Pie_Bombs.md)
+- [Cream Cheese Pumpkin Bread](r/Treats/Cream_Cheese_Pumpkin_Bread.md)
 - [Creamy Rice Pudding](r/Treats/Creamy_Rice_Pudding.md)
 - [Dark Chocolate Crackle Cookies](r/Treats/Dark_Chocolate_Crackle_Cookies.md)
 - [Frog-Eye Salad](r/Treats/Frog-Eye_Salad.md)
+- [Monkey Bread](r/Treats/Monkey_Bread.md)
 - [Nutella Stuffed Cookie Pie](r/Treats/Nutella_Stuffed_Cookie_Pie.md)
 - [Peanut Butter Cookies](r/Treats/Peanut_Butter_Cookies.md)
 - [Pumpkin Cranberry Bread](r/Treats/Pumpkin_Cranberry_Bread.md)
 - [Pumpkin Swirl Chocolate Brownies](r/Treats/Pumpkin_Swirl_Chocolate_Brownies.md)
+- [Sour Cream Pound Cake](r/Treats/Sour_Cream_Pound_Cake.md)
 ## Vegetable
 - [Beer Cheese Mashed Potatoes](r/Vegetable/Beer_Cheese_Mashed_Potatoes.md)
 - [Carrots with Ginger and Honey](r/Vegetable/Carrots_with_Ginger_and_Honey.md)
@@ -136,6 +141,7 @@
 - [Mediterranean Cauliflower Rice](r/Vegetable/Mediterranean_Cauliflower_Rice.md)
 - [Potato Corn Chowder](r/Vegetable/Potato_Corn_Chowder.md)
 - [Sauteed Mushrooms with Garlic Butter](r/Vegetable/Sauteed_Mushrooms_with_Garlic_Butter.md)
+- [Slow-Cooker Potato Soup](r/Vegetable/Slow-Cooker_Potato_Soup.md)
 - [Tasty Baked Broccoli](r/Vegetable/Tasty_Baked_Broccoli.md)
 ## Slow/Pressure Cooker recipes:
 - [Beef Stroganoff (:cow2:)](r/Beef/Slow-Cooker_Beef_Stroganoff.md)
@@ -144,3 +150,4 @@
 - [Chicken Broccoli Alfredo (:chicken:)](r/Poultry/Slow-Cooker_Chicken_Broccoli_Alfredo.md)
 - [Ginger Honey Chicken (:chicken:)](r/Poultry/Slow-Cooker_Ginger_Honey_Chicken.md)
 - [Pesto Mozzerella Pasta (:chicken:)](r/Poultry/Slow-Cooker_Pesto_Mozzerella_Pasta.md)
+- [Potato Soup (:herb)](r/Vegetable/Slow-Cooker_Potato_Soup.md)
