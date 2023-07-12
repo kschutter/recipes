@@ -1,5 +1,6 @@
 import os
 
+
 def get_recipes():
     readme = """# kschutter Culinary Recipes
 - [Beef :cow2:](#beef)
@@ -21,7 +22,16 @@ def get_recipes():
         if category == "template.md":
             continue
         readme += f"\n## {category}"
-        for recipe_file in sorted(os.listdir("r/" + category)):
+
+        recipe_list = os.listdir("r/" + category)
+        for idx, recipe_file in enumerate(recipe_list):
+            if category == 'Poultry' and recipe_file.startswith('Chicken_and'):
+                continue
+            if category == 'Poultry' and recipe_file.startswith('Chicken_'):
+                recipe_file = recipe_file[8:-3] + ',_Chicken' + recipe_file[-3:]
+                recipe_list[idx] = recipe_file
+
+        for recipe_file in sorted(recipe_list):
             link = f"r/{category}/{recipe_file}"
             recipe_name = recipe_file[:-3].replace("_", " ")
             if recipe_name[:11] == "Slow-Cooker":
