@@ -1,7 +1,7 @@
 # Grilled Cuban Pork Chops
 
 ######  Yield: 4 servings
-######  Time:  20 minutes
+######  Time:  8 hour marinade, 25 minutes cook
 
 ##  *Ingredients*
 - 1/2 cup orange juice
@@ -20,17 +20,12 @@
 - 1/2 teaspoon salt
 - 1/4 teaspoon pepper
 
-Optional:
+### Optional:
 - rice
-
 
 ##  *Directions*
 1. Mix together all ingredients but the pork chops, peppers, and onions. Place marinade in a plastic bag or marinade tray. Add pork chops and toss to evenly coat.
-
 2. Place bag in fridge overnight or for at least 8 hours. When ready to cook, remove from fridge 30 minutes before hand to come to room temperature.
-
 3. Slice peppers and onions and season liberally with salt and pepper and oil. Place in aluminum foil and wrap up.
-
 4. Heat grill to medium high heat. Grill pork chops 4-5 minutes per side. Remove from grill and let rest at least 5 minutes. While pork chops are resting, place foil packet of peppers and onions on the grill. Grill for 5 minutes, or until charred.
-
 5. Serve together over rice or on their own.

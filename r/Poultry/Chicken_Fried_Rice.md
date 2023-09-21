@@ -21,29 +21,16 @@
 
 ##  *Directions*
 1. Preheat a large skillet or wok over medium-high heat.
-
 2. Add 1/2 tablespoon butter to the pan.
-
 3. Add the chicken, salt and pepper generously, and cook until chicken is cooked through, about 6-7 minutes.
-
 4. Put the cooked chicken on a plate, and set aside.
-
 5. Add 1 tablespoon butter to the pan.
-
 6. Cook the onions, carrots and peas until tender, about 4 minutes.
-
 7. Add the garlic and cook one more minute.
-
 8. Push the veggies aside, and scramble the eggs on the empty side of the pan.
-
 9. Stir everything together, and add the last 1/2 tablespoon butter to the pan.
-
 10. Add the rice, green onions, soy sauce and chicken and combine.
-
 11. Allow the rice to "fry" and get a little toasty by leaving it alone for a minute.
-
 12. Stir everything up, and allow the rice to crisp up again.
-
 13. Turn off the heat, and add the sesame oil.
-
 14. Stir to combine. Serve immediately.

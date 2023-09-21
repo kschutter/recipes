@@ -19,7 +19,5 @@
 
 ##  *Directions*
 1. Cook bacon until crisp.
-
 2. Add broth, potatoes, corn, celery and onions to saucepan. Bring to a boil; simmer on low for 15 minutes, or until potatoes are tender.
-
 3. Mix mayo, flour and salt in medium bowl. Stir in milk. Add to potato mixture, cook 3-5 minutes or until heated through, stirring constantly. 

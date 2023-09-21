@@ -12,7 +12,5 @@
 
 ##  *Directions*
 1. Preheat oven to 375F.
-
 2. Mix meat, crumbs, broth, eggs and bbq sauce in bread pan.
-
 3. Top with remaining bbq sauce, bake 1 hour or until done (160F).

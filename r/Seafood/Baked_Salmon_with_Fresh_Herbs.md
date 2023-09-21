@@ -18,15 +18,9 @@
  - 1/2 cup olive oil
 
 ##  *Directions*
-
 1. Preheat the oven to 475F.
-
 2. Combine the lemon juice, salt and pepper in a bowl and whisk until the salt dissolves.
-
 3. Add the lemon zest, garlic and fresh herbs.
-
 4. Whisk in the olive oil.
-
 5. Pour the marinade the fish, cover and refrigerate for one hour.
-
 6. Place the fish in a sheet pan, bake for 10 minutes and serve.

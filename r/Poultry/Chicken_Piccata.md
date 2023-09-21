@@ -19,9 +19,7 @@
 
 ##  *Directions*
 1. Season breasts with salt & pepper and cook over medium-high heat in olive oil, on both sides until golden and cooked through (about 5-8 minutes on each side.) Remove chicken and set aside.
-
 2. In the same skillet add in the onion, sun-dried tomatoes and garlic. Sauté until lightly browned (1-2 min) and then whisk in the chicken broth and lemon juice, scraping up bits from the pan. Let the sauce simmer over medium-low heat for 10-15 min to reduce in size by about half the amount.
-
 3. When sauce has thickened, remove from the heat and whisk in the butter until it melts then add in the cream. Heat through back on the heat for about 30 seconds then remove completely from heat. Add in the chicken breasts to coat in sauce and serve.
 
 ###  *Notes*

@@ -15,7 +15,5 @@
 
 ##  *Directions*
 1. Preheat oven to 400F. Grease a large casserole dish and set aside.
-
 2. Combine all ingredients except crushed crackers in a large bowl and mix well. Transfer mixture to prepared baking dish and sprinkle with crushed crackers.
-
 3. Bake for 25 minutes until heated through and bubbly. Allow to cool slightly before serving.

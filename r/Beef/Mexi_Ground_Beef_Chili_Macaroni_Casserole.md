@@ -26,21 +26,15 @@
 ##  *Directions*
 1. In a large skillet brown the beef with garlic, onion, bell pepper, and
 chili pepper flakes.  Drain any fat.
-
 2. Add in taco seasoning mix and parmesan cheese.  Mix to combine and
 cook 1 minute.
-
 3. Add in the bacon, tomato sauce, tomato soup, and brown sugar.  Simmer
 for 30 minutes, stirring occasionally.
-
 4. Preheat oven to 350F.
-
 5. Season with seasoning salt and pepper.  Mix in 2 cups of the Tex-Mex
 cheese.  Fold in the macaroni.
-
 6. Transfer the mixture to a greased 13 x 9 inch casserole dish.
 Sprinkle with grated Parmesean sheese and then the remaining 2 cups of
 the Tex-Mex cheese.
-
 7. Bake uncovered for about 20 minutes, or until bubbly and the cheese
 has melted.

@@ -18,11 +18,7 @@
 
 ##  *Directions*
 1. Brown ground beef in pan on stove at medium heat (do not drain).
-
 2. After removing the meat, saute the onions in the remaining grease until transparent.
-
 3. Combine the rest of the ingredients, sans noodles, in a slow cooker. Cook on medium for 6 hours.
-
 4. Half an hour before the slow cooker is finished, start preparing the noodles' according to its instructions.
-
 5. Combine per bowl to serve, so the noodles aren't soggy in the leftovers.

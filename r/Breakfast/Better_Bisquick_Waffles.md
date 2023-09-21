@@ -13,9 +13,6 @@
 
 ##  *Directions*
 1. Using a medium-sized bowl, whisk all of the ingredients together.
-
 2. Allow the batter to sit for 5-7 minutes so that it thickens.
-
 3. Spoon the batter into the waffle iron and cook on medium heat until the edges are starting to crisp and are golden brown in color.
-
 4. Remove your waffles from the waffle iron and place onto a plate and top your waffle with your favorite toppings.

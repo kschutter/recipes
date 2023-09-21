@@ -14,9 +14,6 @@
 
 ##  *Directions*
 1. Sprinkle chicken with salt and pepper. In 12 inch skillet cook chicken and bacon over medium-high heat 12 minutes, turning to brown evenly.
-
 2. Carefully add broth; cover and cook 3 to 5 minutes more or until chicken is tender and no longer pink (180F).
-
 3. Meanwhile, in microwave-safe 2-quart dish combine asparagus, squash, and 2 tablespoons water. Sprinkle salt and pepper. Cover with vented plastic wrap. Microwave 3 to 5 minutes, until vegetables are crisp-tender, stirring once.
-
 4. Transfer vegetables to plates. Drizzle cooking liquid; top with chicken, bacon, and onions.

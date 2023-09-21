@@ -14,11 +14,7 @@
 
 ##  *Directions*
 1. Preheat oven to 400F.
-
 2. Combine butter, olive oil, garlic and parsley until fluffy.
-
 3. Halve the bread lengthwise, or into thick slices.
-
 4. Spread each side of the bread with garlic butter. Sprinkle with cheese.
-
 5. Bake 8-10 minutes or until golden and toasted.

@@ -1,7 +1,7 @@
 # Garlic Parmesan Green Beans
 
 ######  Yield: 4 servings
-######  Time:  30 minutes
+######  Time:  40 minutes
 
 ##  *Ingredients*
 - 1 pound (500 g) green beans, washed and pat dry
@@ -11,7 +11,6 @@
 - 3/4 teaspoon freshly ground black pepper
 - 1 tablespoon finely chopped garlic (6 cloves garlic)
 - 1/4 cup parmesan cheese
-
 
 ##  *Directions*
 1. Preheat the oven to 425F. Lightly spray a baking sheet or tray with cooking oil spray.

@@ -15,5 +15,4 @@ Best cooked or served with salmon, chicken, shrimp, fish, scallops, oysters.
 
 ##  *Directions*
 1. In a small saucepan, melt the butter over low-medium heat. Add the honey and garlic; whisk until the honey has melted through the butter and the mixture is well combined. 
-
 2. Pour in the lemon juice (or vinegar), season with salt and add parsley.

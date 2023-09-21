@@ -17,10 +17,7 @@
 
 ##  *Directions*
 1. Preheat oven to 350F.
-
 1. Brown chops on both sides in oil.
-
 2. Place chops in greased casserole dish.  Mix remaining ingredients and
 pour over pork chops.
-
 3. Bake uncovered, for 20 minutes.

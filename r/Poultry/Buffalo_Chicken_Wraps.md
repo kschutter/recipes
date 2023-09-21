@@ -1,7 +1,7 @@
 # Buffalo Chicken Wraps
 
-######  Yield: 15 minutes
-######  Time:  4 servings
+######  Yield: 4 servings
+######  Time:  15 minutes + time to cook chicken
 
 ##  *Ingredients*
 
@@ -18,5 +18,4 @@ or
 
 ##  *Directions*
 1. In a large bowl, combine the cooked chicken and buffalo sauce until the chicken is fully coated with the sauce.
-
 2. Lay out the flour tortillas and divide the chicken evenly among the tortillas. Top the chicken with lettuce, and ranch dressing. Fold in the sides of the tortilla and roll the wrap burrito-style. Enjoy warm or cold!

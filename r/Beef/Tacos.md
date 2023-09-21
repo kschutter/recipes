@@ -1,6 +1,5 @@
 # Tacos
 
-######  Yield: ?
 ######  Time:  30 min
 
 ##  *Ingredients*
@@ -14,7 +13,5 @@
 
 ##  *Directions*
 1. Brown meat with garlic, onion and pepper.
-
 2. Add taco seasoning mix and 2/3 cup of water.
-
 3. Simmer for 4 minutes.

@@ -17,11 +17,7 @@
 
 ##  *Directions*
 1. Rinse the shrimp with cold water. Drained and set aside.
-
 2. Heat up the olive oil and butter in a skillet.
-
 3. Add the garlic and saute until it turns slightly brown, stir in the shrimp.
-
 4. Stir and cook the shrimp a few times before adding the honey, lime juice, salt and cayenne pepper.
-
 5. Cook until the honey lime sauce thickens. Garnish with chopped parsley and serve immediately.

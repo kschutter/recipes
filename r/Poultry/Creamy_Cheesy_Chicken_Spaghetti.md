@@ -17,19 +17,11 @@
 
 ##  *Directions*
 1. Preheat oven to 350F. Spray a 9x13 baking dish with nonstick cooking spray.
-
-2. Cook pasta according to package directions (remember, you are only using half a box of angel hair pasta here.)
-
-3. Once pasta is cooked, drain well.
-
+2. Cook pasta according to package directions (remember, you are only using half a box of angel hair pasta here), drain well and set aside.
+3. Bake or sear chicken until cooked through. Chop into bite sized pieces and set aside.
 4. Place pasta back into the pot and add chicken, cream of chicken soups, salsa, sour cream, 1 cup of Mexican cheese blend and taco seasoning.
-
 5. Stir well to combine (this will take a few minutes).
-
 6. Pour combined mixture into your prepared baking dish.
-
 7. Top with remaining cheese and a sprinkling of dried parsley.
-
 8. Cover with nonstick aluminum foil.
-
 9. Cook in the oven for about 25 minutes (until hot and bubbly).

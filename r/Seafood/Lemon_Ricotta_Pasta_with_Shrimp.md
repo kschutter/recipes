@@ -21,9 +21,6 @@
 
 ##  *Directions*
 1. Start the cooking process of the pasta per package instructions. About 7-10 minutes
-
 2. Place a large metal skillet on medium heat till skillet has heated, add about 2-3 tablespoons of olive oil to the metal skillet, add thawed jumbo shrimp, let cook for 2-3 minutes before adding chopped garlic, then add baby spinach leaves, red pepper flakes, kosher salt, and freshly ground black pepper. Cook till shrimp has turned white and spinach slightly wilts. Reserve for a few minutes.
-
 3. Once the pasta has finished cooking, lightly drain, reserve 1 ladle of pasta water, add the pasta to the large metal skillet with the cooked shrimp, the last tablespoon of olive oil, lemon zest, lemon juice, ricotta cheese, heavy cream, and parmesan cheese. Toss to combine the ingredients.
-
 4. Serve with additional parmesan cheese and sliced lemons

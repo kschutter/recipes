@@ -16,18 +16,15 @@
 - 6 pounds short-ribs, flanken-cut (about 6 ribs bone-in, cut into 5 to 6-inch strips)
 - 1/2 cup honey
 
-##      *Directions*
+## *Directions*
 1. Preheat oven to 300F.
-
 2. In a small bowl, combine the paprika, onion powder, salt, oregano, garlic powder, cumin,
 cayenne pepper and a few grinds of black pepper. Rub the mixture all over the ribs and allow it to 
 sit at room temperature for 1 to 2 hours at the most.
-
 3. Place the ribs snugly in an oven dish with the fat side of each rib facing up. Cover tightly with 
 aluminum foil and don't be afraid to top the dish with another heavy dish to ensure the seal! 
 Cook in the oven for 2 1/2 hours, at this point the meat should be falling off the bones. 
 Remove the ribs from the oven and raise the temperature to 425F.
-
 4. Using a pair of tongs, flip and move the beef around a bit. Drizzle the honey evenly over 
 the top of each rib. Place the ribs back in the oven, this time leaving it uncovered and 
 cook another 10 to 15 minutes.

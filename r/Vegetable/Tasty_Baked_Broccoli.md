@@ -11,9 +11,6 @@
 
 ##  *Directions*
 1. Preheat oven to 400F.
-
 2. Combine oil and spices in gallon ziplock.
-
 3. Add chopped broccoli and seal, mixing thoroughly.
-
 4. Place seasoned broccoli on an ungreased pan, bake for 18-20 minutes, until crispy.

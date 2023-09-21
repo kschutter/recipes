@@ -19,8 +19,6 @@
 
 ##  *Directions*
 1. Put chicken broth, garlic, cayenne pepper, and chicken breasts into a sauce pan and bring to a boil. When meat is completely cooked, remove and cut into bite size pieces.
-
 2. Return chicken to pot and add salsa, green onions, and carrot. Simmer for 5 minutes.
-
 3. Ladle into warm bowls. Top with tortilla chips and cheese. Garnish
 with sour cream. Serve with warmed tortillas.

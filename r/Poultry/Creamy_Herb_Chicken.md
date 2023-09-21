@@ -19,13 +19,8 @@
 
 ##  *Directions*
 1. Coat chicken breasts with the onion and garlic powders and herbs. Season generously with salt and pepper.
-
 2. Heat 1 tablespoon of oil in a large pan or skillet over medium-high heat and cook chicken breasts until opaque and no longer pink inside (about 5 minutes each side, depending on thickness). Transfer to a plate; set aside.
-
 3. To the same pan or skillet, heat another 2 teaspoons of olive oil and sauté garlic, with parsley, thyme and rosemary, for about 1 minute, or until fragrant.
-
 4. Stir in milk (or cream); season with salt and pepper, to taste.
-
 5. Bring to a boil; add the cornstarch mixture to the centre of the pan, quickly stirring, until sauce has thickened slightly. Reduce heat and simmer gently for a further minute to allow the sauce to thicken more.
-
 6. Return chicken to the skillet. Sprinkle with extra herbs if desired. Serve immediately.

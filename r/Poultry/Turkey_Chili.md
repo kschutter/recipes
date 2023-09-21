@@ -15,5 +15,4 @@
 
 ##  *Directions*
 1. Brown turkey in skillet
-
 2. Combine all ingredients in a crock or pasta pot and simmer for at least one hour (make sure onions are cooked through)

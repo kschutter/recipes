@@ -18,9 +18,6 @@
 
 ##  *Directions*
 1. Add the chicken to the slow cooker. Sprinkle with the salt and pepper. Spread over the pesto, squeeze the lemon juice over the chicken. Cut the butter into slices and lay over the chicken.
-
 2. Cover and cook on low for 5-6 hours without opening the lid during the cooking time.
-
 3. Near the end of the cooking time, cook the pasta according to the package directions and drain well.
-
 4. Shred the chicken with 2 forks. Add the cooked pasta and the parmesan cheese, stir everything until the pasta is coated with the buttery pesto sauce and the chicken is evenly dispersed throughout the pasta. Add the mozzarella cheese over the pasta. Cover for about 15 more minutes or until the cheese has melted.

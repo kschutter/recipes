@@ -15,11 +15,7 @@
 
 ##  *Directions*
 1. Preheat oven to 350F.
-
 2. In a large bowl, combine the stuffing mix and melted butter.
-
 3. Set aside 1/2 cup of the mixture for the topping.
-
 4. In a large bowl add the zucchini, chicken, soup, onion and sour cream to the remaining stuffing.
-
 5. Place the zucchini mix into a greased 9x13 glass pan and spread out evenly. Sprinkle reserved 1/2 cup stuffing mix on top and bake uncovered for 40 to 50 minutes or until golden brown.

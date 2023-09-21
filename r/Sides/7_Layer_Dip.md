@@ -24,3 +24,5 @@
 4. Spoon guacamole over cream cheese and gently spread. Repeat with drained salsa.
 5. Top with cheese, olives/tomatoes and green onions.
 6. Chill 1 hour before serving. Serve with tortilla chips or crackers.
+
+Source: [spendwithpennies.com](https://www.spendwithpennies.com/7-layer-dip/)

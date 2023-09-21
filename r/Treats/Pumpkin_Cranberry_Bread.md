@@ -18,15 +18,10 @@
 
 ##  *Directions*
 1. Preheat oven to 350F.
-
 2. In a large bowl combine flour, spice, soda, and salt.
-
 3. In a small bowl beat eggs and then beat in sugar, oil, and pumpkin. Pour the pumpkin mixture into the dry ingredients.
-
 4. Stir just until moistened. Stir in cranberries.
-
 5. Pour into 2 greased 8x4 inch loaf pans. Bake for an hour or until toothpick comes out clean.
-
 6. Cool and remove from pans.
 
 ##  *Notes*
