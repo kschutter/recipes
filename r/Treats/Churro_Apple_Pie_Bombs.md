@@ -1,11 +1,11 @@
 # Air Fryer Churro Apple Pie Bombs
 
-######  Yield: 16 churros
+######  Yield: 16 churros (usually double the recipe) n
 ######  Time:  25 minutes
 
 ##  *Ingredients*
 - 1 cup apple pie filling
-- 1 can biscuits
+- 1 can biscuits (not flakey) 
 <!--  -->
 - 1/2 cup butter
 - 3/4 cup sugar
