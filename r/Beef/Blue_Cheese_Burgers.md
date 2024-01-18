@@ -1,7 +1,7 @@
 # Blue Cheese Burgers
 
-######  Yield: 
-######  Time:  
+######  Yield: 4 burgers
+######  Time:  25 minutes prep and cook, 55 minutes total
 
 ##  *Ingredients*
 - 1 pound ground beef (16 to 20 percent fat)
