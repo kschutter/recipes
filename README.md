@@ -12,6 +12,7 @@
 - [Slow Cooker :sweat_drops:](#slowpressure-cooker-recipes)
     
 ## Beef
+- [Blue Cheese Burgers](r/Beef/Blue_Cheese_Burgers.md)
 - [Cowboy Casserole](r/Beef/Cowboy_Casserole.md)
 - [French Onion Beef Casserole](r/Beef/French_Onion_Beef_Casserole.md)
 - [Garlic Butter Brazilian Steak](r/Beef/Garlic_Butter_Brazilian_Steak.md)
