@@ -93,6 +93,7 @@
 - [Loaded Potato and Ranch Chicken Casserole](r/Poultry/Loaded_Potato_and_Ranch_Chicken_Casserole.md)
 - [Perfect Chicken Tacos](r/Poultry/Perfect_Chicken_Tacos.md)
 - [Pesto Baked Chicken](r/Poultry/Pesto_Baked_Chicken.md)
+- [Pseudo-Chipotle Burritos](r/Poultry/Pseudo-Chipotle_Burritos.md)
 - [Simple Grilled Chicken](r/Poultry/Simple_Grilled_Chicken.md)
 - [Slow-Cooker Chicken Broccoli Alfredo](r/Poultry/Slow-Cooker_Chicken_Broccoli_Alfredo.md)
 - [Slow-Cooker Ginger Honey Chicken](r/Poultry/Slow-Cooker_Ginger_Honey_Chicken.md)
