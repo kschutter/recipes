@@ -12,6 +12,7 @@
 - [Slow Cooker :sweat_drops:](#slowpressure-cooker-recipes)
     
 ## Beef
+- [Beef and Cheese Manicotti](r/Beef/Beef_and_Cheese_Manicotti.md)
 - [Blue Cheese Burgers](r/Beef/Blue_Cheese_Burgers.md)
 - [Cowboy Casserole](r/Beef/Cowboy_Casserole.md)
 - [French Onion Beef Casserole](r/Beef/French_Onion_Beef_Casserole.md)
