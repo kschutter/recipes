@@ -84,6 +84,7 @@
 - [Crunchy Onion Chicken](r/Poultry/Crunchy_Onion_Chicken.md)
 - [Easy Crispy Baked Chicken Thighs](r/Poultry/Easy_Crispy_Baked_Chicken_Thighs.md)
 - [Garlic Butter Chicken](r/Poultry/Garlic_Butter_Chicken.md)
+- [Garlic Parmesan Shellbows](r/Poultry/Garlic_Parmesan_Shellbows.md)
 - [Gaucamole Stuffed Chicken](r/Poultry/Gaucamole_Stuffed_Chicken.md)
 - [Grilled Chicken Sandwich Marinade](r/Poultry/Grilled_Chicken_Sandwich_Marinade.md)
 - [Honey Lemon Chicken](r/Poultry/Honey_Lemon_Chicken.md)

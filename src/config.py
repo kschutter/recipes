@@ -25,7 +25,7 @@ def get_recipes():
 
         edited_titles = {}
         recipe_list = os.listdir("r/" + category)
-        for idx, recipe_file in enumerate(recipe_list):
+        for recipe_file in recipe_list:
             if category == 'Poultry' and recipe_file.startswith('Chicken_') and not recipe_file.startswith('Chicken_and'):
                 edited_titles[recipe_file] = recipe_file[8:-3] + ',_Chicken' + recipe_file[-3:]
 
