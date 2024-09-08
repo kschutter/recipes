@@ -152,6 +152,7 @@
 - [Smoothie - Cherry-Almond](r/Treats/Smoothie_-_Cherry-Almond.md)
 - [Smoothie - Strawberry-Banana](r/Treats/Smoothie_-_Strawberry-Banana.md)
 - [Sour Cream Pound Cake](r/Treats/Sour_Cream_Pound_Cake.md)
+- [Sweet Cornbread](r/Treats/Sweet_Cornbread.md)
 ## Vegetable
 - [Bean Burritos](r/Vegetable/Bean_Burritos.md)
 - [Beer Cheese Mashed Potatoes](r/Vegetable/Beer_Cheese_Mashed_Potatoes.md)

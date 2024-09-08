@@ -7,7 +7,9 @@
 - 16 ounces (4 links) italian sausage links
 - 1 tablespoon canola oil
 - 1 cup water
+<!--  -->
 - 1 medium onion (sliced thin)
+<!--  -->
 - 1 cup marinara sauce
 - 1 cup mozzarella cheese (grated)
 - 4 sub or hoagie rolls
