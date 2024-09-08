@@ -20,10 +20,4 @@
 2. Add the broth, milk, salt, and pasta. Bring to a boil and then turn the heat down to a low simmer. Let the pasta cook for 15 minutes, until soft and the liquid has reduced. (The milk might form a skin on top of the pot or on the spoon – no worries, just skim it off.)
 3. When the sauce is thickened and the pasta is soft, stir in the parmesan and cream.
 
-Source: []()
-
-
-
-Melt butter over medium heat. Add garlic and sauté until fragrant and soft (avoid browning, though).
-Add the broth, milk, salt, and pasta. Bring to a boil and then turn the heat down to a low simmer. Let the pasta cook for 15-or-so minutes, until soft and the liquid has reduced. (The milk might form a skin on top of the pot or on the spoon – no worries, just skim it off.)
-When the sauce is thickened and the pasta is soft, stir in the Parmesan. And if you feel like you want to take it up a notch, add the cream.
+Source: [Pinch of Yum](https://pinchofyum.com/garlic-parmesan-shellbows)
