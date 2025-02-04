@@ -22,7 +22,7 @@
 
 
 ##  *Directions*
-1. Bring a large pot of salted water to a boil over high. Stir in pasta; cook, stirring occasionally, until al dente, 9 to 11 minutes. Drain pasta, and transfer to a large bowl.
+1. Preheat oven to 350F with oven rack about 10 inches from heat. Bring a large pot of salted water to a boil over high. Stir in pasta; cook, stirring occasionally, until al dente, 9 to 11 minutes. Drain pasta, and transfer to a large bowl.
 
 2. Heat 2 tablespoons oil in a large, deep skillet over high until shimmering. Add okra, and cook, stirring occasionally, until bright green, about 3 minutes. Stir okra into cooked pasta. 
 
@@ -30,7 +30,7 @@
 
 4. Discard all but 1 tablespoon drippings from skillet. Add onion to reserved drippings in skillet; cook over medium-high, stirring often, until softened, about 4 minutes, adding garlic during final 1 minute of cook time. Remove from heat. Transfer onion mixture to pasta mixture; stir to combine. Wipe skillet clean.
 
-5. Preheat oven to 350F with oven rack about 10 inches from heat. Melt butter in reserved skillet over medium. Sprinkle with flour; cook, whisking constantly, until flour mixture is blond in color, 1 to 2 minutes. Gradually add evaporated milk, whisking constantly, and bring to a simmer over medium. Simmer, whisking constantly, until mixture has thickened and lightly coats the back of a spoon, 1 to 2 minutes. 
+5. Melt butter in reserved skillet over medium. Sprinkle with flour; cook, whisking constantly, until flour mixture is blond in color, 1 to 2 minutes. Gradually add evaporated milk, whisking constantly, and bring to a simmer over medium. Simmer, whisking constantly, until mixture has thickened and lightly coats the back of a spoon, 1 to 2 minutes. 
 
 6. Reduce heat to low. Whisk in Creole seasoning, dry mustard, and ground white pepper. Whisk in 1 cup white cheddar cheese and 1 cup Gruyère cheese until smooth and melted, about 1 minute. Remove from heat. Pour sauce over pasta mixture, and stir to combine.
 
