@@ -42,6 +42,7 @@
 - [Garlic Herb Stuffed Pork Chops](r/Pork/Garlic_Herb_Stuffed_Pork_Chops.md)
 - [Grilled Cuban Pork Chops](r/Pork/Grilled_Cuban_Pork_Chops.md)
 - [Italian Sausage Sandwiches](r/Pork/Italian_Sausage_Sandwiches.md)
+- [Okra Sausage Mac and Cheese](r/Pork/Okra_Sausage_Mac_and_Cheese.md)
 - [Parmesan Sage Pork Chops](r/Pork/Parmesan_Sage_Pork_Chops.md)
 - [Pork Chops Yum Yum](r/Pork/Pork_Chops_Yum_Yum.md)
 - [Pork Chops with Bok Choy](r/Pork/Pork_Chops_with_Bok_Choy.md)
