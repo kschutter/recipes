@@ -5,19 +5,24 @@
 
 ##  *Ingredients*
 - 1 pound uncooked short pasta (such as casarecce, cavatappi, or penne)
+<!--- -->
 - 1/4 cup olive oil (divided)
 - 3/4 pounds fresh okra
 - 1 pound andouille sausage (cut into half-moons)
+<!--- -->
 - 1 small yellow onion (finely chopped)
 - 8 cloves garlic (finely chopped)
+<!--- -->
 - 1/4 cup unsalted butter, plus more for greasing
 - 1/4 cup all-purpose flour
 - 3 cups evaporated milk
+<!--- -->
 - 2 tablespoons Creole seasoning
 - 2 teaspoons dry mustard
 - 1/2 teaspoon ground white pepper
 - 8 ounces sharp white cheddar cheese (shredded, divided)
 - 8 ounces Gruyère cheese (shredded, divided)
+<!--- -->
 - Chopped fresh parsley and sliced scallions, for garnish
 
 
