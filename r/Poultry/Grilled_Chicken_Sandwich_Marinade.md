@@ -7,6 +7,9 @@
 - 1.5 pounds chicken breasts
 - 4 sesame seed buns
 - 1/4 cup honey mustard sauce
+<!--  -->
+- 1 avocado
+- lemon juice
 - lettuce, tomatoes, onions optional
 
 ### Marinade
@@ -23,4 +26,5 @@
 3. Preheat grill to medium-high heat.
 4. Place chicken on the grill for 5-6 minutes per side until no pink remains and chicken reaches 165F.
 5. While chicken is grilling, brush buns with olive oil and place face down on the grill. Lightly toast.
-6. Spread each bun with honey mustard and add lettuce, tomatoes and onions if desired. Top with chicken and serve.
+6. Mash avocado and mix in 2 tablespoons lemon juice.
+7. Spread each bun with honey mustard and top with chicken. Add avocado mix, lettuce, tomatoes, and onions as desired.
